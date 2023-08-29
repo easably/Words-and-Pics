@@ -21049,22 +21049,6 @@
         "frequency": 6
       },
       {
-        "word": "diurnal",
-        "part_of_speech": "adjective",
-        "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/diu/diurn/diurnal__us_1.mp3",
-          "transcription": "/daɪˈɜːrnl/"
-        },
-        "examples": [
-          "unlike most other bats, this species is diurnal."
-        ],
-        "definition": [
-          "active during the day",
-          "taking one day"
-        ],
-        "frequency": 5
-      },
-      {
         "word": "camouflage",
         "part_of_speech": "noun",
         "phonetics": {
@@ -21098,28 +21082,6 @@
         "definition": [
           "active at night",
           "happening during the night"
-        ],
-        "frequency": 3
-      },
-      {
-        "word": "extinction",
-        "part_of_speech": "noun",
-        "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ext/extin/extinction__us_1.mp3",
-          "transcription": "/ɪkˈstɪŋkʃn/"
-        },
-        "examples": [
-          "a tribe threatened with extinction/in danger of extinction",
-          "the island's way of life is doomed to extinction.",
-          "the mountain gorilla is on the verge of extinction.",
-          "we know of several mass extinctions in the earth's history.",
-          "a campaign to save wild koalas from extinction",
-          "will technology in music drive creativity to extinction?",
-          "the dormouse in britain may face extinction if ancient woodland continues to disappear.",
-          "a comet colliding with the earth may have caused the mass extinction of the dinosaurs."
-        ],
-        "definition": [
-          "a situation in which a plant, an animal, a way of life, etc. stops existing"
         ],
         "frequency": 3
       },
@@ -21216,23 +21178,6 @@
         ],
         "definition": [
           "a chemical used for killing insects"
-        ],
-        "frequency": 1
-      },
-      {
-        "word": "endangered",
-        "part_of_speech": "adjective",
-        "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/end/endan/endangered__us_2.mp3",
-          "transcription": "/ɪnˈdeɪndʒərd/"
-        },
-        "examples": [
-          "the sea turtle is an endangered species .",
-          "14% of primate species are highly endangered.",
-          "these orang-utans are critically endangered due to habitat loss."
-        ],
-        "definition": [
-          "(used especially about groups of animals, plants, etc.) at risk of no longer existing"
         ],
         "frequency": 1
       },
@@ -21399,21 +21344,6 @@
         "definition": [
           "the time that the young of a person or an animal develops inside its mother’s body until it is born; the process of developing inside the mother’s body",
           "the process by which an idea or a plan develops"
-        ],
-        "frequency": 0
-      },
-      {
-        "word": "carrion",
-        "part_of_speech": "noun",
-        "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/car/carri/carrion__us_1.mp3",
-          "transcription": "/ˈkæriən/"
-        },
-        "examples": [
-          "crows feeding on carrion"
-        ],
-        "definition": [
-          "the decaying (= becoming destroyed by natural processes) bodies of dead animals"
         ],
         "frequency": 0
       },
@@ -35947,7 +35877,7 @@
       },
       {
         "word": "athlete's mindset",
-        "part_of_speech": "",
+        "part_of_speech": "noun",
         "phonetics": null,
         "examples": [
           "having the right mindset is essential for any athlete.",
@@ -43298,7 +43228,6 @@
       },
       {
         "word": "injury management",
-        "subject": "sport",
         "part_of_speech": "noun",
         "phonetics": null,
         "examples": [
@@ -44178,7 +44107,7 @@
       },
       {
         "word": "cultural exchange program",
-        "part_of_speech": "",
+        "part_of_speech": "noun",
         "phonetics": null,
         "examples": [],
         "definition": [],
@@ -47939,7 +47868,6 @@
         "definition": [
           "a dish consisting of vegetables cooked in stock, typically served as an accompaniment to meat or fish"
         ],
-        " frequency": null,
         "frequency": 0
       }
     ]
