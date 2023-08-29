@@ -55,49 +55,49 @@ def test_word_data_types(english_words_data: Dict[str, Dict]):
             for word_data in words:
                 assert isinstance(
                     word_data, dict
-                ), f"Invalid word data format in level '{level}', category '{category}'"
+                ), f"Invalid word data format in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
                 assert (
                     "word" in word_data
                     and isinstance(word_data["word"], str)
                     and len(word_data["word"]) >= 1
-                ), f"Invalid 'word' data type in level '{level}', category '{category}'"
+                ), f"Invalid 'word' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
                 assert (
                     "part_of_speech" in word_data
                     and isinstance(word_data["part_of_speech"], str)
                     and len(word_data["word"]) >= 1
-                ), f"Invalid 'part_of_speech' data type in level '{level}', category '{category}'"
+                ), f"Invalid 'part_of_speech' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
                 assert "examples" in word_data and isinstance(
                     word_data["examples"], list
-                ), f"Invalid 'examples' data type in level '{level}', category '{category}'"
+                ), f"Invalid 'examples' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
                 assert "definition" in word_data and isinstance(
                     word_data["definition"], list
-                ), f"Invalid 'definition' data type in level '{level}', category '{category}'"
+                ), f"Invalid 'definition' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
                 assert "frequency" in word_data and isinstance(
                     word_data["frequency"], int
-                ), f"Invalid 'frequency' data type in level '{level}', category '{category}'"
+                ), f"Invalid 'frequency' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
                 phonetics_data: Optional[Dict[str, str]] = word_data.get("phonetics")
                 if phonetics_data is not None:
                     assert isinstance(
                         phonetics_data, dict
-                    ), f"Invalid 'phonetics' data type in level '{level}', category '{category}'"
+                    ), f"Invalid 'phonetics' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
                     assert "mp3" in phonetics_data and (
                         phonetics_data["mp3"] is None
                         or isinstance(phonetics_data["mp3"], str)
-                    ), f"Invalid 'mp3' data type in level '{level}', category '{category}'"
+                    ), f"Invalid 'mp3' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
                     assert "transcription" in phonetics_data and (
                         phonetics_data["transcription"] is None
                         or isinstance(phonetics_data["transcription"], str)
-                    ), f"Invalid 'transcription' data type in level '{level}', category '{category}'"
+                    ), f"Invalid 'transcription' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
                 assert (
                     len(word_data.keys()) == 6
-                ), f"Invalid number of keys in word data in level '{level}', category '{category}'"
+                ), f"Invalid number of keys in word data in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
 
 def test_word_data_lowercase(english_words_data: Dict[str, Dict]):
