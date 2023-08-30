@@ -21401,24 +21401,6 @@
                 "frequency": 58
             },
             {
-                "word": "glance",
-                "part_of_speech": "verb",
-                "phonetics": {
-                    "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gla/glanc/glancing__us_2.mp3",
-                    "transcription": "/ˈɡlænsɪŋ/"
-                },
-                "examples": [
-                    "she glanced at her watch.",
-                    "he glanced around the room.",
-                    "i glanced up quickly to see who had come in."
-                ],
-                "definition": [
-                    "to look quickly at something/somebody",
-                    "to read something quickly and not carefully or completely"
-                ],
-                "frequency": 39
-            },
-            {
                 "word": "charming",
                 "part_of_speech": "adjective",
                 "phonetics": {
@@ -21435,48 +21417,6 @@
                     "used to show that you have a low opinion of somebody’s behaviour"
                 ],
                 "frequency": 17
-            },
-            {
-                "word": "stare",
-                "part_of_speech": "verb",
-                "phonetics": {
-                    "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/stari/staring__us_1.mp3",
-                    "transcription": "/ˈsterɪŋ/"
-                },
-                "examples": [
-                    "i screamed and everyone stared.",
-                    "stare at somebody/something",
-                    "stare up/down at somebody/something",
-                    "he sat staring into space (= looking at nothing).",
-                    "i was staring into her beautiful blue eyes.",
-                    "she looked at them with dark staring eyes."
-                ],
-                "definition": [
-                    "to look at somebody/something for a long time",
-                    "used to describe something that you have failed to see, even though it was obvious and should have been easy to see",
-                    "to be certain to happen",
-                    "to be unable to avoid something"
-                ],
-                "frequency": 14
-            },
-            {
-                "word": "parting",
-                "part_of_speech": "noun",
-                "phonetics": {
-                    "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/parti/parting__us_1.mp3",
-                    "transcription": "/ˈpɑːrtɪŋ/"
-                },
-                "examples": [
-                    "she was already dreading the moment of parting.",
-                    "we had a tearful parting at the airport."
-                ],
-                "definition": [
-                    "the act or occasion of leaving a person or place",
-                    "a line on a person’s head where the hair is divided with a comb",
-                    "the act or result of dividing something into parts",
-                    "a point at which two people or groups of people decide to separate"
-                ],
-                "frequency": 12
             },
             {
                 "word": "wrinkled",
@@ -21823,71 +21763,6 @@
                     "to smile in a silly or unpleasant way that shows that you are pleased with yourself, know something that other people do not know, etc."
                 ],
                 "frequency": 3
-            },
-            {
-                "word": "twitch",
-                "part_of_speech": "verb",
-                "phonetics": {
-                    "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/twi/twitc/twitching__us_1.mp3",
-                    "transcription": "/ˈtwɪtʃɪŋ/"
-                },
-                "examples": [
-                    "her lips twitched with amusement.",
-                    "the cats watched each other, their tails twitching.",
-                    "the animal lay on the ground, its whole body twitching and jerking."
-                ],
-                "definition": [
-                    "if a part of your body twitches, or if you twitch it, it makes a sudden, quick movement, sometimes one that you cannot control",
-                    "to give something a short, sharp pull; to be pulled in this way"
-                ],
-                "frequency": 3
-            },
-            {
-                "word": "fair",
-                "part_of_speech": "adjective",
-                "phonetics": {
-                    "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fai/fair_/fair__us_1.mp3",
-                    "transcription": "/fer/"
-                },
-                "examples": [
-                    "a fair deal/wage/price",
-                    "the punishment was very fair.",
-                    "in the end, a draw was a fair result.",
-                    "i give you fair warning, i’m not always this generous.",
-                    "fair to somebody",
-                    "fair to somebody to do something",
-                    "fair on somebody",
-                    "fair on somebody to do something",
-                    "it is fair to do something",
-                    "i think it is fair to say that they are pleased with this latest offer.",
-                    "it is fair that…",
-                    "to be fair, she behaved better than we expected.",
-                    "(especially british english)"
-                ],
-                "definition": [
-                    "acceptable and appropriate in a particular situation",
-                    "treating everyone equally and according to the rules or law",
-                    "pale in colour",
-                    "quite large in number, size or amount",
-                    "quite good",
-                    "bright and not raining",
-                    "not too strong and blowing in the right direction",
-                    "beautiful",
-                    "in some situations any type of behaviour is acceptable to get what you want",
-                    "used to tell somebody to be reasonable in their judgement of somebody/something",
-                    "using dishonest methods if honest ones do not work",
-                    "a reasonable opportunity to show that you can do something",
-                    "used to say that an idea or suggestion seems reasonable",
-                    "a fairly large number",
-                    "used to ask somebody to be reasonable",
-                    "(to allow somebody) the opportunity to give their opinion of something before deciding if they have done something wrong, often in court",
-                    "used to ask for fair treatment or to claim that a situation is fair",
-                    "(to give somebody/get) fair treatment that gives you the same chance as somebody else",
-                    "(more than) an amount of something that is considered to be reasonable or acceptable",
-                    "not particularly good or bad",
-                    "used by somebody who is caught doing something wrong, to say that they admit that they are wrong"
-                ],
-                "frequency": 2
             },
             {
                 "word": "yawn",
