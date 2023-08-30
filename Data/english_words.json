@@ -8889,6 +8889,27 @@
         "frequency": 8
       },
       {
+        "word": "mouse",
+        "part_of_speech": "noun",
+        "phonetics": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mic/mice_/mice__us_1.mp3",
+          "transcription": "/maɪs/"
+        },
+        "examples": [
+          "a house mouse",
+          "the stores were overrun with rats and mice.",
+          "she crept upstairs, quiet as a mouse.",
+          "(figurative)"
+        ],
+        "definition": [
+          "a small animal that is covered in fur and has a long thin tail. mice live in fields, in people’s houses or where food is stored.",
+          "a small device that is moved by hand across a surface to control the movement of the cursor on a computer screen",
+          "to play a cruel game with somebody in your power by changing your behaviour very often, so that they become nervous and do not know what to expect",
+          "people enjoy themselves more and behave with greater freedom when the person in charge of them is not there"
+        ],
+        "frequency": 8
+      },
+      {
         "word": "feathers",
         "part_of_speech": "noun",
         "phonetics": null,
@@ -16126,27 +16147,6 @@
         "frequency": 10
       },
       {
-        "word": "mouse",
-        "part_of_speech": "noun",
-        "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mic/mice_/mice__us_1.mp3",
-          "transcription": "/maɪs/"
-        },
-        "examples": [
-          "a house mouse",
-          "the stores were overrun with rats and mice.",
-          "she crept upstairs, quiet as a mouse.",
-          "(figurative)"
-        ],
-        "definition": [
-          "a small animal that is covered in fur and has a long thin tail. mice live in fields, in people’s houses or where food is stored.",
-          "a small device that is moved by hand across a surface to control the movement of the cursor on a computer screen",
-          "to play a cruel game with somebody in your power by changing your behaviour very often, so that they become nervous and do not know what to expect",
-          "people enjoy themselves more and behave with greater freedom when the person in charge of them is not there"
-        ],
-        "frequency": 8
-      },
-      {
         "word": "install",
         "part_of_speech": "verb",
         "phonetics": {
@@ -21710,23 +21710,6 @@
         "frequency": 214
       },
       {
-        "word": "loving",
-        "part_of_speech": "adjective",
-        "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lov/lovin/loving__us_1.mp3",
-          "transcription": "/ˈlʌvɪŋ/"
-        },
-        "examples": [
-          "a warm and loving family",
-          "she chose the present with loving care."
-        ],
-        "definition": [
-          "feeling or showing love and care for somebody/something",
-          "enjoying the object or activity mentioned"
-        ],
-        "frequency": 214
-      },
-      {
         "word": "call",
         "part_of_speech": "verb",
         "phonetics": {
@@ -22285,84 +22268,6 @@
         "frequency": 19
       },
       {
-        "word": "marry",
-        "part_of_speech": "verb",
-        "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marry/marrying__us_2.mp3",
-          "transcription": "/ˈmæriɪŋ/"
-        },
-        "examples": [
-          "marry (somebody)",
-          "he was 36 when he married viv.",
-          "i don't want to marry robert.",
-          "we got married in a small village church.",
-          "dali and gala were married in a civil ceremony in paris.",
-          "he never married.",
-          "i guess i'm not the marrying kind (= the kind of person who wants to get married).",
-          "+ adj."
-        ],
-        "definition": [
-          "to become the husband or wife of somebody; to get married to somebody",
-          "to perform a ceremony in which two people get married",
-          "to find a husband or wife for somebody, especially your daughter or son",
-          "to combine two different things, ideas, etc. successfully",
-          "people who marry quickly, without really getting to know each other, may discover later that they have made a mistake",
-          "to marry a rich person"
-        ],
-        "frequency": 18
-      },
-      {
-        "word": "disliking",
-        "part_of_speech": "noun",
-        "phonetics": null,
-        "examples": [
-          "i have a disliking for him.",
-          "i showed my disliking of his behavior."
-        ],
-        "definition": ["the feeling of not liking someone or something"],
-        "frequency": 14
-      },
-      {
-        "word": "liking",
-        "part_of_speech": "noun",
-        "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lik/likin/liking__us_1.mp3",
-          "transcription": "/ˈlaɪkɪŋ/"
-        },
-        "examples": [
-          "he had a liking for fast cars.",
-          "she had taken a liking to him on their first meeting."
-        ],
-        "definition": [
-          "the feeling that you like somebody/something; the pleasure in something",
-          "if you say, for example, that something is too hot for your liking, you mean that you would prefer it to be less hot",
-          "suitable, and how you like something"
-        ],
-        "frequency": 11
-      },
-      {
-        "word": "invite",
-        "part_of_speech": "verb",
-        "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inv/invit/inviting__us_1.mp3",
-          "transcription": "/ɪnˈvaɪtɪŋ/"
-        },
-        "examples": [
-          "invite somebody to something",
-          "she very kindly invited me to lunch.",
-          "invite somebody",
-          "my mother invited a few friends that she hadn't seen for 20 years.",
-          "invite somebody for something",
-          "invite somebody to do something"
-        ],
-        "definition": [
-          "to ask somebody to come to a social event",
-          "to ask somebody formally to go somewhere or do something; to make a formal or polite request for something",
-          "to make something, especially something bad or unpleasant, likely to happen"
-        ],
-        "frequency": 9
-      },
-      {
         "word": "inviting",
         "part_of_speech": "adjective",
         "phonetics": {
@@ -22496,24 +22401,6 @@
         "frequency": 1
       },
       {
-        "word": "divorced",
-        "part_of_speech": "adjective",
-        "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/div/divor/divorced__us_1.mp3",
-          "transcription": "/dɪˈvɔːrst/"
-        },
-        "examples": [
-          "my parents are divorced.",
-          "many divorced men remarry and have second families.",
-          "a divorced father/mother/couple"
-        ],
-        "definition": [
-          "no longer married because your marriage has been legally ended",
-          "appearing not to be affected by something; separate from something"
-        ],
-        "frequency": 0
-      },
-      {
         "word": "discuss",
         "part_of_speech": "verb",
         "phonetics": {
@@ -22558,17 +22445,6 @@
         "definition": [
           "to speak to someone angrily because you do not agree with them"
         ],
-        "frequency": 0
-      },
-      {
-        "word": "hating",
-        "part_of_speech": "verb",
-        "phonetics": null,
-        "examples": [
-          "i really hate doing laundry.",
-          "i hate that i have to go to work."
-        ],
-        "definition": ["to feel strong dislike for or hostility toward"],
         "frequency": 0
       }
     ],
