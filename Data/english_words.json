@@ -8675,7 +8675,10 @@
       {
         "word": "coworker",
         "part_of_speech": "noun",
-        "phonetics": null,
+        "phonetics": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/co_/co_wo/co_worker_1_us_1.mp3",
+          "transcription": "/ˈkəʊ wɜːrkər/"
+        },
         "examples": [
           "she's my coworker but we're not friends.",
           "i don't get along with my coworkers."
@@ -8700,7 +8703,7 @@
         "word": "capybara",
         "part_of_speech": "noun",
         "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cap/capyb/capybara__us_2.ogg",
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cap/capyb/capybara__us_2.mp3",
           "transcription": "/ˌkæpiˈbɑːrə/"
         },
         "examples": [
@@ -42132,7 +42135,7 @@
         "part_of_speech": "verb",
         "phonetics": {
           "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/foc/focus/focusing__us_1.mp3",
-          "transcription": "/ˈfəʊkəsɪŋ/"
+          "transcription": "/ˈfəʊkəs/"
         },
         "examples": [
           "she was distracted and finding it hard to focus.",
