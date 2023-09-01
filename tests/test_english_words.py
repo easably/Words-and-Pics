@@ -69,13 +69,23 @@ def test_word_data_types(english_words_data: Dict[str, Dict]):
                     and len(word_data["word"]) >= 1
                 ), f"Invalid 'part_of_speech' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
-                assert "examples" in word_data and isinstance(
-                    word_data["examples"], list
+                assert (
+                    "examples" in word_data
+                    and isinstance(word_data["examples"], list)
+                    and len(word_data["examples"]) > 0
                 ), f"Invalid 'examples' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
-                assert "definition" in word_data and isinstance(
-                    word_data["definition"], list
+                for i in word_data["examples"]:
+                    assert isinstance(i, str)
+
+                assert (
+                    "definition" in word_data
+                    and isinstance(word_data["definition"], list)
+                    and len(word_data["definition"]) > 0
                 ), f"Invalid 'definition' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
+
+                for i in word_data["definition"]:
+                    assert isinstance(i, str)
 
                 assert "frequency" in word_data and isinstance(
                     word_data["frequency"], int
