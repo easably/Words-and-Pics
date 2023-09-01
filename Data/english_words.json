@@ -8675,7 +8675,10 @@
       {
         "word": "coworker",
         "part_of_speech": "noun",
-        "phonetics": null,
+        "phonetics": {
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/co_/co_wo/co_worker_1_us_1.mp3",
+          "transcription": "/ˈkəʊ wɜːrkər/"
+        },
         "examples": [
           "she's my coworker but we're not friends.",
           "i don't get along with my coworkers."
@@ -8700,7 +8703,7 @@
         "word": "capybara",
         "part_of_speech": "noun",
         "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/c/cap/capyb/capybara__us_2.ogg",
+          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cap/capyb/capybara__us_2.mp3",
           "transcription": "/ˌkæpiˈbɑːrə/"
         },
         "examples": [
@@ -21796,21 +21799,6 @@
         "frequency": 177
       },
       {
-        "word": "supporting",
-        "part_of_speech": "adjective",
-        "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sup/suppo/supporting__us_1.mp3",
-          "transcription": "/səˈpɔːrtɪŋ/"
-        },
-        "examples": ["the movie featured robert lindsay in a supporting role."],
-        "definition": [
-          "a supporting actor in a play or film has an important part but not the leading one",
-          "helping to show that something is true",
-          "carrying the weight of something"
-        ],
-        "frequency": 177
-      },
-      {
         "word": "meeting",
         "part_of_speech": "noun",
         "phonetics": {
@@ -21908,17 +21896,6 @@
           "used when you are going to disagree, usually quite strongly, with somebody",
           "in connection with"
         ],
-        "frequency": 123
-      },
-      {
-        "word": "respecting",
-        "part_of_speech": "preposition",
-        "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/respe/respecting__us_1.mp3",
-          "transcription": "/rɪˈspektɪŋ/"
-        },
-        "examples": ["information respecting the child’s whereabouts"],
-        "definition": ["in connection with"],
         "frequency": 123
       },
       {
@@ -22039,22 +22016,6 @@
           "a group of companies that work together illegally to reduce competition, control prices, etc.",
           "being taken care of by somebody",
           "to believe what somebody says even though you do not have any proof or evidence to show that it is true"
-        ],
-        "frequency": 49
-      },
-      {
-        "word": "trusting",
-        "part_of_speech": "adjective",
-        "phonetics": {
-          "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tru/trust/trusting__us_1.mp3",
-          "transcription": "/ˈtrʌstɪŋ/"
-        },
-        "examples": [
-          "if you're too trusting, other people will take advantage of you.",
-          "there is a need for a trusting relationship between client and consultant."
-        ],
-        "definition": [
-          "tending to believe that other people are good, honest, etc."
         ],
         "frequency": 49
       },
@@ -22201,19 +22162,6 @@
         "definition": [
           "to like one thing or person better than another; to choose one thing rather than something else because you like it better",
           "to accuse somebody formally of a crime so that there can be a trial in court"
-        ],
-        "frequency": 27
-      },
-      {
-        "word": "preferring",
-        "part_of_speech": "verb",
-        "phonetics": null,
-        "examples": [
-          "i prefer living in the city.",
-          "do you prefer tea or coffee?"
-        ],
-        "definition": [
-          "like or want (something) more than or better than something else; choose (something)"
         ],
         "frequency": 27
       },
@@ -39316,17 +39264,6 @@
         "frequency": 0
       },
       {
-        "word": "cystic",
-        "part_of_speech": "adjective",
-        "phonetics": null,
-        "examples": [
-          "cystic fibrosis is an inherited disease that affects the lungs and digestive system.",
-          "the cystic lesion was clearly visible on the radiograph."
-        ],
-        "definition": ["of or relating to a cyst or cysts"],
-        "frequency": 0
-      },
-      {
         "word": "geriatrics",
         "part_of_speech": "noun",
         "phonetics": null,
@@ -42008,7 +41945,7 @@
         "part_of_speech": "verb",
         "phonetics": {
           "mp3": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/foc/focus/focusing__us_1.mp3",
-          "transcription": "/ˈfəʊkəsɪŋ/"
+          "transcription": "/ˈfəʊkəs/"
         },
         "examples": [
           "she was distracted and finding it hard to focus.",
