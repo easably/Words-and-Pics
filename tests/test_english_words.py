@@ -87,10 +87,6 @@ def test_word_data_types(english_words_data: Dict[str, Dict]):
                 for i in word_data["definition"]:
                     assert isinstance(i, str)
 
-                assert "frequency" in word_data and isinstance(
-                    word_data["frequency"], int
-                ), f"Invalid 'frequency' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
-
                 phonetics_data: Optional[Dict[str, str]] = word_data.get("phonetics")
                 if phonetics_data is not None:
                     assert isinstance(
@@ -106,7 +102,7 @@ def test_word_data_types(english_words_data: Dict[str, Dict]):
                     ), f"Invalid 'transcription' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
                 assert (
-                    len(word_data.keys()) == 6
+                    len(word_data.keys()) == 5
                 ), f"Invalid number of keys in word data in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
 
