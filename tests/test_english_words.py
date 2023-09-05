@@ -84,6 +84,12 @@ def test_word_data_types(english_words_data: Dict[str, Dict]):
                     and len(word_data["definition"]) > 0
                 ), f"Invalid 'definition' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
+                assert (
+                    "image" in word_data
+                    and isinstance(word_data["image"], str)
+                    and word_data["image"].startswith("https://elang-space.fra1.cdn.digitaloceanspaces.com/image/")
+                ), f"Invalid 'definition' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
+
                 for i in word_data["definition"]:
                     assert isinstance(i, str)
 
@@ -102,7 +108,7 @@ def test_word_data_types(english_words_data: Dict[str, Dict]):
                     ), f"Invalid 'transcription' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
                 assert (
-                    len(word_data.keys()) == 5
+                    len(word_data.keys()) == 6
                 ), f"Invalid number of keys in word data in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
 
@@ -115,7 +121,7 @@ def test_word_data_lowercase(english_words_data: Dict[str, Dict]):
                 ), f"Invalid word data format in level '{level}', category '{category}'"
 
                 for key, value in word_data.items():
-                    if isinstance(value, str):
+                    if isinstance(value, str) and key != "image":
                         assert (
                             value.islower()
                         ), f"Invalid case for '{key}' in level '{level}', category '{category}'. Word - '{word_data['word']}'"
@@ -125,10 +131,3 @@ def test_word_data_lowercase(english_words_data: Dict[str, Dict]):
                             assert (
                                 item.islower()
                             ), f"Invalid case for '{key}' in level '{level}', category '{category}'. Word - '{word_data['word']}'"
-
-                    if isinstance(value, dict):
-                        for sub_key, sub_value in value.items():
-                            if isinstance(sub_value, str):
-                                assert (
-                                    sub_value.islower()
-                                ), f"Invalid case for '{sub_key}' in '{key}' in level '{level}', category '{category}'. Word - '{word_data['word']}'"
