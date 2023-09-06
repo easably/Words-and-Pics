@@ -16,7 +16,7 @@ def test_audio_files_exist(english_words_data):
     for level, categories in english_words_data.items():
         for category, words in categories.items():
             for word_data in words:
-                if "phonetics" in word_data and word_data["phonetics"]:
+                if word_data["phonetics"]:
                     word_audio_filename = os.path.join(
                         "phonetics", level.upper(), category, f"{word_data['word']}.mp3"
                     )
