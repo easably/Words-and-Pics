@@ -87,7 +87,9 @@ def test_word_data_types(english_words_data: Dict[str, Dict]):
                 assert (
                     "image" in word_data
                     and isinstance(word_data["image"], str)
-                    and word_data["image"].startswith("https://elang-space.fra1.cdn.digitaloceanspaces.com/image/")
+                    and word_data["image"].startswith(
+                        "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/"
+                    )
                 ), f"Invalid 'definition' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
                 for i in word_data["definition"]:
@@ -102,9 +104,11 @@ def test_word_data_types(english_words_data: Dict[str, Dict]):
                         phonetics_data["mp3"] is None
                         or isinstance(phonetics_data["mp3"], str)
                     ), f"Invalid 'mp3' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
-                    assert "transcription" in phonetics_data and (
-                        phonetics_data["transcription"] is None
-                        or isinstance(phonetics_data["transcription"], str)
+                    assert (
+                        "transcription" in phonetics_data
+                        and phonetics_data["transcription"] != ""
+                        and phonetics_data["transcription"] != None
+                        and isinstance(phonetics_data["transcription"], str)
                     ), f"Invalid 'transcription' data type in level '{level}', category '{category}'. Word - '{word_data['word']}'"
 
                 assert (
