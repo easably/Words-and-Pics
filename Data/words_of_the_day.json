@@ -25,10 +25,10 @@
     "definition": [
       "a wooden frame to hold a picture while it is being painted"
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/easel.png"
   },
   "2023-09-03": {
-    "word": "attraction",
+    "word": "carousel",
     "part_of_speech": "noun",
     "phonetics": {
       "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/attraction.mp3",
@@ -38,7 +38,7 @@
       "the eiffel tower is one of the most famous tourist attractions in paris"
     ],
     "definition": ["an interesting or lively place to go or thing to do."],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/carousel.png"
   },
   "2023-09-04": {
     "word": "diamond",
@@ -51,7 +51,7 @@
     "definition": [
       "a clear precious stone of pure carbon, the hardest substance known. diamonds are used in jewellery and also in industry, especially for cutting glass."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/diamond.png"
   },
   "2023-09-05": {
     "word": "dream",
@@ -64,7 +64,7 @@
     "definition": [
       "a series of images, events and feelings that happen in your mind while you are asleep."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/dream.png"
   },
   "2023-09-06": {
     "word": "gift",
@@ -79,7 +79,7 @@
     "definition": [
       "a thing that you give to somebody, especially on a special occasion or to say thank you"
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/gift.png"
   },
   "2023-09-07": {
     "word": "fireworks",
@@ -92,7 +92,7 @@
     "definition": [
       "a small device containing powder that burns or explodes and produces bright coloured lights and loud noises, used especially at celebrations."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/fireworks.png"
   },
   "2023-09-08": {
     "word": "swan",
@@ -107,7 +107,7 @@
     "definition": [
       "a large bird that is usually white and has a long, thin neck. swans live on or near water."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/swan.png"
   },
   "2023-09-09": {
     "word": "flamingo",
@@ -122,7 +122,7 @@
     "definition": [
       "a large pink bird with long thin legs and a long neck, that lives near water in warm countries."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/flamingo.png"
   },
   "2023-09-10": {
     "word": "bouquet",
@@ -140,17 +140,17 @@
     "image": ""
   },
   "2023-09-11": {
-    "word": "watercolour",
+    "word": "dew",
     "part_of_speech": "noun",
     "phonetics": {
-      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/watercolour.mp3",
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/dew.mp3",
       "transcription": "/ˈwɔːtərkʌlər/"
     },
-    "examples": ["most of her paintings were done in watercolours."],
+    "examples": ["the grass was wet with early morning dew."],
     "definition": [
-      "paints that you mix with water, not oil, and use for painting pictures."
+      "the very small drops of water that form on the ground, etc. during the night."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/dew.png"
   },
   "2023-09-12": {
     "word": "geometry",
@@ -165,7 +165,7 @@
     "definition": [
       "the branch of mathematics that deals with the measurements and relationships of lines, angles, surfaces and solids."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/geometry.png"
   },
   "2023-09-13": {
     "word": "lace",
@@ -178,7 +178,7 @@
     "definition": [
       "a very thin material made from threads of cotton, silk, etc. that are made into a pattern with holes"
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/lace.png"
   },
   "2023-09-14": {
     "word": "comet",
@@ -193,7 +193,7 @@
     "definition": [
       "a mass of ice and dust that moves around the sun and looks like a bright star with a tail."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/comet.png"
   },
   "2023-09-15": {
     "word": "swing",
@@ -209,7 +209,7 @@
     "definition": [
       "to move backwards or forwards or from side to side while hanging from a fixed point; to make something do this."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/swing.png"
   },
   "2023-09-16": {
     "word": "cactus",
@@ -224,7 +224,7 @@
     "definition": [
       "a plant that grows in hot dry regions, especially one with thick stems covered in spines but without leaves. there are many different types of cactus."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/cactus.png"
   },
   "2023-09-17": {
     "word": "origami",
@@ -237,7 +237,7 @@
       "she spent hours perfecting her origami skills, folding colorful paper into intricate shapes like cranes and butterflies."
     ],
     "definition": ["the japanese art of folding paper into attractive shapes"],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/origami.png"
   },
   "2023-09-18": {
     "word": "path",
@@ -250,7 +250,7 @@
     "definition": [
       "a way or track that is built or is made by the action of people walking."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/path.png"
   },
   "2023-09-19": {
     "word": "unicorn",
@@ -265,7 +265,7 @@
     "definition": [
       "an animal like a white horse with a long straight horn on its head."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/unicorn.png"
   },
   "2023-09-20": {
     "word": "dragonfly",
@@ -278,7 +278,7 @@
     "definition": [
       "an insect with a long, thin body, often brightly coloured, and two pairs of large transparent wings. dragonflies are often seen over water."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/dragonfly.png"
   },
   "2023-09-21": {
     "word": "landscape",
@@ -293,7 +293,7 @@
     "definition": [
       "everything you can see when you look across a large area of land, especially in the country."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/landscape.png"
   },
   "2023-09-22": {
     "word": "wheat",
@@ -306,7 +306,7 @@
     "definition": [
       "a plant grown for its grain that is used to produce the flour for bread, cakes, pasta, etc.; the grain of this plant"
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/wheat.png"
   },
   "2023-09-23": {
     "word": "sapphire",
@@ -319,7 +319,7 @@
       "she wore a stunning necklace adorned with a deep blue sapphire that sparkled in the sunlight."
     ],
     "definition": ["a clear, bright blue precious stone"],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/sapphire.png"
   },
   "2023-09-24": {
     "word": "garden",
@@ -332,7 +332,7 @@
     "definition": [
       "a piece of land next to or around your house where you can grow flowers, fruit, vegetables, etc., usually with a lawn."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/garden.png"
   },
   "2023-09-25": {
     "word": "balloon",
@@ -345,20 +345,22 @@
     "definition": [
       "a small bag made of very thin rubber that becomes larger and rounder when you fill it with air or gas. balloons are brightly coloured and used as decorations or toys."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/balloon.png"
   },
   "2023-09-26": {
-    "word": "terrace",
+    "word": "Milky Way",
     "part_of_speech": "noun",
     "phonetics": {
-      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/terrace.mp3",
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/milky_way.mp3",
       "transcription": "/ˈterəs/"
     },
-    "examples": ["all rooms have a balcony or terrace."],
-    "definition": [
-      "a flat, hard area, especially outside a house or restaurant, where you can sit, eat and enjoy the sun"
+    "examples": [
+      "a chocolate bar with a soft, light centre and caramel inside it. in britain it is sold as a mars bar."
     ],
-    "image": ""
+    "definition": [
+      "a band of light across the night sky made up of a huge number of stars that form a large part of the galaxy that includes our sun and its planets"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/Milky Way.png"
   },
   "2023-09-27": {
     "word": "rainbow",
@@ -371,20 +373,20 @@
     "definition": [
       "a curved band of different colours that appears in the sky when the sun shines through rain."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/rainbow.png"
   },
   "2023-09-28": {
-    "word": "ladybird",
+    "word": "ladybug",
     "part_of_speech": "noun",
     "phonetics": {
-      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/ladybird.mp3",
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/ladybug.mp3",
       "transcription": "/ˈleɪdibɜːrd/"
     },
     "examples": [
       "the children were delighted to discover a bright red ladybird crawling on a leaf in the garden."
     ],
     "definition": ["a small flying insect, usually red with black spots."],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/ladybug.png"
   },
   "2023-09-29": {
     "word": "labyrinth",
@@ -397,7 +399,7 @@
     "definition": [
       "a complicated series of paths, which it is difficult to find your way through"
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/labyrinth.png"
   },
   "2023-09-30": {
     "word": "dandelion",
@@ -412,6 +414,6 @@
     "definition": [
       "a small wild plant with a bright yellow flower that becomes a soft white ball of seeds called a dandelion clock."
     ],
-    "image": ""
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/dandelion.png"
   }
 }
