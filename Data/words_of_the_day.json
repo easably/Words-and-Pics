@@ -31,8 +31,8 @@
     "word": "carousel",
     "part_of_speech": "noun",
     "phonetics": {
-      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/attraction.mp3",
-      "transcription": "/əˈtrækʃn/"
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/carousel.mp3",
+      "transcription": "/ˌkærəˈsɛl/"
     },
     "examples": [
       "the eiffel tower is one of the most famous tourist attractions in paris"
@@ -144,7 +144,7 @@
     "part_of_speech": "noun",
     "phonetics": {
       "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/dew.mp3",
-      "transcription": "/ˈwɔːtərkʌlər/"
+      "transcription": "/duː/"
     },
     "examples": ["the grass was wet with early morning dew."],
     "definition": [
@@ -415,5 +415,436 @@
       "a small wild plant with a bright yellow flower that becomes a soft white ball of seeds called a dandelion clock."
     ],
     "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/dandelion.png"
+  },
+  "2023-10-01": {
+    "word": "hacker",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/hacker.mp3",
+      "transcription": "/ˈhækər/"
+    },
+    "examples": [
+      "the software is so complicated that only experienced hackers can use it."
+    ],
+    "definition": [
+      "a person who uses computers to get access to data in somebody else's computer or phone system without permission"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/hacker.png"
+  },
+  "2023-10-02": {
+    "word": "chip",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/chip.mp3",
+      "transcription": "/tʃɪp/"
+    },
+    "examples": ["the world's biggest chip maker"],
+    "definition": [
+      "a very small piece of a material that is a semiconductor, used to carry a complicated electronic circuit"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/chip.png"
+  },
+  "2023-10-03": {
+    "word": "cyberspace",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/cyberspace.mp3",
+      "transcription": "/ˈsaɪbərspeɪs/"
+    },
+    "examples": ["many more business functions will move into cyberspace."],
+    "definition": [
+      "the internet considered as an imaginary space without a physical location in which communication over computer networks takes place"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/cyberspace.png"
+  },
+  "2023-10-04": {
+    "word": "metropolis",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/metropolis.mp3",
+      "transcription": "/məˈtrɑːpəlɪs/"
+    },
+    "examples": [
+      "barcelona has all the amenities you would expect to find in a great metropolis."
+    ],
+    "definition": [
+      "a large, important city (often the capital city of a country or region)"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/metropolis.png"
+  },
+  "2023-10-05": {
+    "word": "neon",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/neon.mp3",
+      "transcription": "/ˈniːɑːn/"
+    },
+    "examples": ["neon lights/signs"],
+    "definition": [
+      "a chemical element. Neon is a gas that does not react with anything and that shines with a bright light when electricity is passed through it."
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/neon.png"
+  },
+  "2023-10-06": {
+    "word": "dystopia",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/dystopia.mp3",
+      "transcription": "/dɪsˈtəʊpiə/"
+    },
+    "examples": [
+      "in the dystopian society depicted in the novel, citizens are constantly monitored by surveillance cameras and live in fear of the oppressive government."
+    ],
+    "definition": [
+      "an imaginary place or state in which everything is extremely bad or unpleasant."
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/dystopia.png"
+  },
+  "2023-10-07": {
+    "word": "artificial intelligence",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/artificial_intelligence.mp3",
+      "transcription": "/ˌɑːrtɪfɪʃl ɪnˈtelɪdʒəns/"
+    },
+    "examples": [
+      "language is crucial to the development of artificial intelligence."
+    ],
+    "definition": [
+      "the study and development of computer systems that can copy intelligent human behaviour"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/artificial_intelligence.png"
+  },
+  "2023-10-08": {
+    "word": "chatbot",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/chatbot.mp3",
+      "transcription": "/ˈtʃætbɑːt/"
+    },
+    "examples": [
+      "there's probably a chatbot on your smartphone, like siri or cortana."
+    ],
+    "definition": [
+      "a computer program that can hold a conversation with a person, usually over the internet"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/chatbot.png"
+  },
+  "2023-10-09": {
+    "word": "graffiti",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/graffiti.mp3",
+      "transcription": "/ɡrəˈfiːti/"
+    },
+    "examples": ["the subway was covered in graffiti."],
+    "definition": ["drawings or writing on a wall, etc. in a public place"],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/graffiti.png"
+  },
+  "2023-10-10": {
+    "word": "virtual reality",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/virtual_reality.mp3",
+      "transcription": "/ˌvɜːrtʃuəl riˈæləti/"
+    },
+    "examples": [
+      "virtual reality uses computers to create a simulated three-dimensional world."
+    ],
+    "definition": [
+      "images and sounds created by a computer that seem almost real to the user, who can interact with them by using sensors"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/virtual_reality.png"
+  },
+  "2023-10-11": {
+    "word": "cyborg",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/cyborg.mp3",
+      "transcription": "/ˈsaɪbɔːrɡ/"
+    },
+    "examples": [
+      "how bioethicists learned to stop worrying and embrace their inner cyborgs."
+    ],
+    "definition": [
+      "(in science fiction stories) a creature that is part human, part machine"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/cyborg.png"
+  },
+  "2023-10-12": {
+    "word": "robot",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/robot.mp3",
+      "transcription": "/ˈsaɪbɔːrɡ/"
+    },
+    "examples": [
+      "on her first flight she was responsible for operating the shuttle's robot arm."
+    ],
+    "definition": [
+      "a machine that can perform a complicated series of tasks by itself"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/robot.png"
+  },
+  "2023-10-13": {
+    "word": "alien",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/alien.mp3",
+      "transcription": "/ˈeɪliən/"
+    },
+    "examples": ["an illegal alien"],
+    "definition": [
+      "a person who is not a citizen of the country in which they live or work"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/alien.png"
+  },
+  "2023-10-14": {
+    "word": "game",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/game.mp3",
+      "transcription": "/ɡeɪm/"
+    },
+    "examples": ["the kids were playing a game with their balloons."],
+    "definition": [
+      "an activity that you do to have fun, often one that has rules and that you can win or lose; the equipment for a game"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/game.png"
+  },
+  "2023-10-15": {
+    "word": "animation",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/animation.mp3",
+      "transcription": "/ˌænɪˈmeɪʃn/"
+    },
+    "examples": ["computer/cartoon animation."],
+    "definition": [
+      "the process of making films, videos and computer games in which drawings, models or images of people and animals seem to move"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/animation.png"
+  },
+  "2023-10-16": {
+    "word": "hologram",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/hologram.mp3",
+      "transcription": "/ˈhɑːləɡræm/"
+    },
+    "examples": [
+      "a photograph of an interference pattern which, when suitably illuminated, produces a three-dimensional image."
+    ],
+    "definition": [
+      "a special type of image that appears to be three-dimensional (= solid rather than flat), especially one created using lasers"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/hologram.png"
+  },
+  "2023-10-17": {
+    "word": "flying saucer",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/flying_saucer.mp3",
+      "transcription": "/ˌflaɪɪŋ ˈsɔːsər/"
+    },
+    "examples": [
+      "how can a flying saucer fly faster than sound and not create a supersonic boom?"
+    ],
+    "definition": [
+      "a round spacecraft that some people claim to have seen and that some people believe comes from another planet"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/flying_saucer.png"
+  },
+  "2023-10-18": {
+    "word": "infinity",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/infinity.mp3",
+      "transcription": "/ɪnˈfɪnəti/"
+    },
+    "examples": ["the infinity/infinities of space"],
+    "definition": ["the state of having no end or limit"],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/infinity.png"
+  },
+  "2023-10-19": {
+    "word": "science",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/science.mp3",
+      "transcription": "/ˈsaɪəns/"
+    },
+    "examples": ["new developments in science and technology"],
+    "definition": [
+      "knowledge about the structure and behaviour of the natural and physical world, based on facts that you can prove, for example by experiments"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/science.png"
+  },
+  "2023-10-20": {
+    "word": "amulet",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/amulet.mp3",
+      "transcription": "/ˈæmjʊlət/"
+    },
+    "examples": [
+      "if the amulet turns out to be effective, one will then give more ample thanks to the marabout."
+    ],
+    "definition": [
+      "a piece of jewellery that some people wear because they think it protects them from bad luck, illness, etc."
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/amulet.png"
+  },
+  "2023-10-21": {
+    "word": "dragon",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/dragon.mp3",
+      "transcription": "/ˈdræɡən/"
+    },
+    "examples": [
+      "the dragon flew gracefully through the sky, its scales shimmering in the sunlight."
+    ],
+    "definition": "a large, aggressive animal, with wings and a long tail, that can breathe out fire",
+    "image": null
+  },
+  "2023-10-22": {
+    "word": "energy",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/energy.mp3",
+      "transcription": "/ˈenərdʒi/"
+    },
+    "examples": [
+      "she drank a cup of coffee to boost her energy before starting her workout."
+    ],
+    "definition": ["the ability to do work or cause change."],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/energy.png"
+  },
+  "2023-10-23": {
+    "word": "experiment",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/experiment.mp3",
+      "transcription": "/ɪkˈsperɪmənt/"
+    },
+    "examples": [
+      "he conducted a simple experiment to test the effects of different temperatures on plant growth."
+    ],
+    "definition": [
+      "a scientific or systematic procedure carried out to test a hypothesis, investigate a phenomenon, or gather data. It involves carefully designed steps, controlled variables, and objective observations to draw conclusions and expand knowledge in a particular field of study."
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/experiment.png"
+  },
+  "2023-10-24": {
+    "word": "magic",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/magic.mp3",
+      "transcription": "/ˈmædʒɪk/"
+    },
+    "examples": [
+      "the magician waved his wand and performed a mesmerizing magic trick, making a coin disappear."
+    ],
+    "definition": [
+      "the art or practice of using supernatural forces, rituals, or spells to manipulate or control natural or supernatural phenomena."
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/magic.png"
+  },
+  "2023-10-25": {
+    "word": "potion",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/potion.mp3",
+      "transcription": "/ˈpəʊʃn/"
+    },
+    "examples": ["i've tried all sorts of drugs, creams, pills and potions."],
+    "definition": "a drink of medicine or poison; a liquid with magic powers",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/potion.png"
+  },
+  "2023-10-26": {
+    "word": "universe",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/universe.mp3",
+      "transcription": "/ˈjuːnɪvɜːrs/"
+    },
+    "examples": [
+      "the night sky was filled with countless stars, reminding us of the vastness of the universe."
+    ],
+    "definition": [
+      "the vast expanse of space and all matter, energy, and time within it, including galaxies, stars, planets, and all forms of life."
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/universe.png"
+  },
+  "2023-10-27": {
+    "word": "wand",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/wand.mp3",
+      "transcription": "/wɑːnd/"
+    },
+    "examples": [
+      "she waved her wand and a shower of sparks erupted, casting a spell of enchantment."
+    ],
+    "definition": [
+      "a slender, handheld object used for magic, often made of wood and believed to channel mystical energy."
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/wand.png"
+  },
+  "2023-10-28": {
+    "word": "the World Wide Web",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/world_wide_web.mp3",
+      "transcription": "/ðə ˌwɜːrld waɪd ˈweb/"
+    },
+    "examples": ["to browse a site on the World Wide Web"],
+    "definition": [
+      "a system for finding information on the internet, in which documents are connected to other documents using hypertext links"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/time_machine.png"
+  },
+  "2023-10-29": {
+    "word": "time machine",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/time_machine.mp3",
+      "transcription": "/ˈtaɪm məʃiːn/"
+    },
+    "examples": [
+      "instances or illustrations that serve as evidence or clarification of a concept or idea."
+    ],
+    "definition": [
+      "a machine that enables you to travel in time to the past or the future"
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/time_machine.png"
+  },
+  "2023-10-30": {
+    "word": "console",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/console.mp3",
+      "transcription": "/kənˈsəʊl/"
+    },
+    "examples": [
+      "i spent the entire weekend playing my favorite video game on the game console."
+    ],
+    "definition": ["a small electronic device for playing video games"],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/console.png"
+  },
+  "2023-10-31": {
+    "word": "pumpkin",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/pumpkin.mp3",
+      "transcription": "/ˈpʌmpkɪn/"
+    },
+    "examples": [
+      "pumpkin pie is a traditional American dish served on thanksgiving."
+    ],
+    "definition": [
+      "enlarge imagea large round vegetable with thick orange skin. The seeds can be dried and eaten and the soft part inside can be cooked as a vegetable or in sweet pies."
+    ],
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/pumpkin.png"
   }
 }
