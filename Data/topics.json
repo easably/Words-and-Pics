@@ -1,0 +1,90 @@
+{
+    "Animal": [
+        "https://www.oxfordlearnersdictionaries.com/topic/animals",
+        "https://www.oxfordlearnersdictionaries.com/topic/birds",
+        "https://www.oxfordlearnersdictionaries.com/topic/fish-and-shellfish",
+        "https://www.oxfordlearnersdictionaries.com/topic/insects-worms-etc"
+    ],
+    "Appearance": [
+        "https://www.oxfordlearnersdictionaries.com/topic/appearance",
+        "https://www.oxfordlearnersdictionaries.com/topic/body",
+        "https://www.oxfordlearnersdictionaries.com/topic/clothes-and-fashion",
+        "https://www.oxfordlearnersdictionaries.com/topic/colours-and-shapes"
+    ],
+    "Food and drink": [
+        "https://www.oxfordlearnersdictionaries.com/topic/cooking-and-eating",
+        "https://www.oxfordlearnersdictionaries.com/topic/drinks",
+        "https://www.oxfordlearnersdictionaries.com/topic/food"
+    ],
+    "Health": [
+        "https://www.oxfordlearnersdictionaries.com/topic/disability",
+        "https://www.oxfordlearnersdictionaries.com/topic/health-and-fitness",
+        "https://www.oxfordlearnersdictionaries.com/topic/health-problems",
+        "https://www.oxfordlearnersdictionaries.com/topic/healthcare",
+        "https://www.oxfordlearnersdictionaries.com/topic/mental-health"
+    ],
+    "Homes and buildings": [
+        "https://www.oxfordlearnersdictionaries.com/topic/buildings",
+        "https://www.oxfordlearnersdictionaries.com/topic/gardens",
+        "https://www.oxfordlearnersdictionaries.com/topic/houses-and-homes"
+    ],
+    "Leisure": [
+        "https://www.oxfordlearnersdictionaries.com/topic/games-and-toys",
+        "https://www.oxfordlearnersdictionaries.com/topic/hobbies",
+        "https://www.oxfordlearnersdictionaries.com/topic/shopping"
+    ],
+    "People": [
+        "https://www.oxfordlearnersdictionaries.com/topic/education",
+        "https://www.oxfordlearnersdictionaries.com/topic/family-and-relationships",
+        "https://www.oxfordlearnersdictionaries.com/topic/feelings",
+        "https://www.oxfordlearnersdictionaries.com/topic/life-stages",
+        "https://www.oxfordlearnersdictionaries.com/topic/personal-qualities"
+    ],
+    "Politics and society": [
+        "https://www.oxfordlearnersdictionaries.com/topic/crime-and-punishment",
+        "https://www.oxfordlearnersdictionaries.com/topic/law-and-justice",
+        "https://www.oxfordlearnersdictionaries.com/topic/people-in-society",
+        "https://www.oxfordlearnersdictionaries.com/topic/politics",
+        "https://www.oxfordlearnersdictionaries.com/topic/religion-and-festivals",
+        "https://www.oxfordlearnersdictionaries.com/topic/social-issues",
+        "https://www.oxfordlearnersdictionaries.com/topic/war-and-conflict"
+    ],
+    "Time and space": [
+        "https://www.oxfordlearnersdictionaries.com/topic/history",
+        "https://www.oxfordlearnersdictionaries.com/topic/space",
+        "https://www.oxfordlearnersdictionaries.com/topic/time"
+    ],
+    "The natural world": [
+        "https://www.oxfordlearnersdictionaries.com/topic/farming",
+        "https://www.oxfordlearnersdictionaries.com/topic/geography",
+        "https://www.oxfordlearnersdictionaries.com/topic/plants-and-trees",
+        "https://www.oxfordlearnersdictionaries.com/topic/the-environment",
+        "https://www.oxfordlearnersdictionaries.com/topic/weather"
+    ],
+    "Sport": [
+        "https://www.oxfordlearnersdictionaries.com/topic/sports-ball-and-racket-sports",
+        "https://www.oxfordlearnersdictionaries.com/topic/sports-other-sports",
+        "https://www.oxfordlearnersdictionaries.com/topic/sports-water-sports"
+    ],
+    "Science and technology": [
+        "https://www.oxfordlearnersdictionaries.com/topic/biology",
+        "https://www.oxfordlearnersdictionaries.com/topic/computers",
+        "https://www.oxfordlearnersdictionaries.com/topic/engineering",
+        "https://www.oxfordlearnersdictionaries.com/topic/maths-and-measurement",
+        "https://www.oxfordlearnersdictionaries.com/topic/physics-and-chemistry",
+        "https://www.oxfordlearnersdictionaries.com/topic/scientific-research"
+    ],
+    "Travel": [
+        "https://www.oxfordlearnersdictionaries.com/topic/holidays",
+        "https://www.oxfordlearnersdictionaries.com/topic/transport-by-air",
+        "https://www.oxfordlearnersdictionaries.com/topic/transport-by-bus-and-train",
+        "https://www.oxfordlearnersdictionaries.com/topic/transport-by-car-or-lorry",
+        "https://www.oxfordlearnersdictionaries.com/topic/transport-by-water"
+    ],
+    "Work and business": [
+        "https://www.oxfordlearnersdictionaries.com/topic/business",
+        "https://www.oxfordlearnersdictionaries.com/topic/jobs",
+        "https://www.oxfordlearnersdictionaries.com/topic/money",
+        "https://www.oxfordlearnersdictionaries.com/topic/working-life"
+    ]
+}

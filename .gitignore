@@ -6,3 +6,4 @@ node*
 package.json
 package-lock.json
 *.js
+get_*
