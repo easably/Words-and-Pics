@@ -981,7 +981,7 @@
           "the opening in the face used for speaking, eating, etc.; the area inside the head behind this opening"
         ],
         "examples": [
-          "She opened her mouth to say something."
+          "she opened her mouth to say something."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A1/Appearance/mouth.png",
         "part_of_speech": "noun",
@@ -992,7 +992,9 @@
         "word": "mouth"
       },
       {
-        "definition": [],
+        "definition": [
+          "attractive in appearance; pleasing to the eye; having a pleasing and charming quality."
+        ],
         "examples": [
           "a pretty face"
         ],
@@ -1005,7 +1007,9 @@
         "word": "pretty"
       },
       {
-        "definition": [],
+        "definition": [
+          "a color on the visible light spectrum, often associated with the sky and the ocean."
+        ],
         "examples": [
           "bright/dark/light/pale/deep blue"
         ],
@@ -1022,7 +1026,7 @@
           "the lowest part of the leg, below the ankle, on which a person or an animal stands"
         ],
         "examples": [
-          "My feet are aching."
+          "my feet are aching."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A1/Appearance/foot.png",
         "part_of_speech": "noun",
@@ -1127,7 +1131,7 @@
           "having a greater than average height"
         ],
         "examples": [
-          "She's tall and thin."
+          "she's tall and thin."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A1/Appearance/tall.png",
         "part_of_speech": "adjective",
@@ -1138,7 +1142,9 @@
         "word": "tall"
       },
       {
-        "definition": [],
+        "definition": [
+          "a bright, warm color on the visible light spectrum, often associated with sunshine and happiness."
+        ],
         "examples": [
           "She was dressed in yellow."
         ],
@@ -1166,7 +1172,9 @@
         "word": "pair"
       },
       {
-        "definition": [],
+        "definition": [
+          "a pale red color, often associated with romance, sweetness, and innocence."
+        ],
         "examples": [
           "She was dressed in pink."
         ],
@@ -1665,7 +1673,9 @@
         "word": "title"
       },
       {
-        "definition": [],
+        "definition": [
+          "an abbreviation for 'television', which refers to a telecommunication medium used for transmitting moving images and sound to a wide audience."
+        ],
         "examples": [
           "We spent the evening watching TV."
         ],
@@ -1922,7 +1932,7 @@
           "a woman who performs on the stage, on television or in films, especially as a profession"
         ],
         "examples": [
-          "The Oscar-winning actress has taken a break from acting."
+          "the oscar-winning actress has taken a break from acting."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A1/Culture/actress.png",
         "part_of_speech": "noun",
@@ -1948,9 +1958,11 @@
         "word": "quiz"
       },
       {
-        "definition": [],
+        "definition": [
+          "an abbreviation for 'compact disc' which is a digital optical disc used for storing and playing back audio, video, or other data."
+        ],
         "examples": [
-          "on CD"
+          "on cd"
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A1/Culture/cd.png",
         "part_of_speech": "noun",
@@ -1961,9 +1973,11 @@
         "word": "cd"
       },
       {
-        "definition": [],
+        "definition": [
+          "an abbreviation for 'digital versatile disc' or 'digital video disc,' which is an optical disc format used for storing and playing back digital video, audio, and data."
+        ],
         "examples": [
-          "Let's just stay in and watch a DVD."
+          "let's just stay in and watch a DVD."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A1/Culture/dvd.png",
         "part_of_speech": "noun",
@@ -2740,7 +2754,9 @@
         "word": "tea"
       },
       {
-        "definition": [],
+        "definition": [
+          "christmas is an annual holiday that celebrates the birth of jesus christ. it is observed on december 25th by christians and is widely celebrated as a festive season involving gift-giving, decorating christmas trees, and sharing time with loved ones."
+        ],
         "examples": [
           "Christmas dinner/presents"
         ],
@@ -3336,7 +3352,9 @@
         "word": "apartment"
       },
       {
-        "definition": [],
+        "definition": [
+          "design refers to the process of creating and planning something with a specific purpose or aesthetic in mind."
+        ],
         "examples": [
           "design something"
         ],
@@ -4279,11 +4297,13 @@
         "word": "bill"
       },
       {
-        "definition": [],
+        "definition": [
+          "A shop is a place where goods or services are exchanged for money."
+        ],
         "examples": [
           "I shop there from time to time."
         ],
-        "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A1/Leisure/shop.png",
+        "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A1/Leisure/Shop.png",
         "part_of_speech": "verb",
         "phonetics": {
           "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/phonetics/A1/Leisure/shop.mp3",
@@ -4894,7 +4914,9 @@
         "word": "town"
       },
       {
-        "definition": [],
+        "definition": [
+          "The west is the direction toward which the sun sets."
+        ],
         "examples": [
           "West Africa"
         ],
@@ -4907,7 +4929,9 @@
         "word": "west"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word south can be used as a noun, adjective, or adverb. When used as a noun, south refers to the direction toward the southern end of the Earth's axis. When used as an adjective, south describes something that is located in the southern hemisphere. When used as an ad"
+        ],
         "examples": [
           "South Wales"
         ],
@@ -4935,7 +4959,9 @@
         "word": "natural"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word north can be defined as a direction or as the region located in this direction. When used as a direction, north typically refers to the direction opposite of south on a compass. When used to describe a region, north often refers to the northernmost part of a country, continent, or"
+        ],
         "examples": [
           "North London"
         ],
@@ -4963,7 +4989,9 @@
         "word": "bad"
       },
       {
-        "definition": [],
+        "definition": [
+          "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west and the Mediterranean Sea to the south."
+        ],
         "examples": [
           "western/eastern/central Europe"
         ],
@@ -5066,8 +5094,12 @@
         "word": "village"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "the second-largest continent on earth, situated primarily in the eastern hemisphere, known for its rich cultural diversity, wildlife, and varied geography."
+        ],
+        "examples": [
+          "africa is renowned for its stunning savannas, dense rainforests, and diverse wildlife, including lions, elephants, and giraffes."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A1/Natural world/africa.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -5077,8 +5109,12 @@
         "word": "africa"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "the largest and most populous continent on Earth, located primarily in the eastern and Northern hemispheres, known for its diverse cultures, geography, and history."
+        ],
+        "examples": [
+          "asia is home to countries such as china, india, and japan, each with its unique traditions and landscapes"
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A1/Natural world/asia.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -5088,7 +5124,9 @@
         "word": "asia"
       },
       {
-        "definition": [],
+        "definition": [
+          "The east is the direction toward which the sun rises."
+        ],
         "examples": [
           "East Africa"
         ],
@@ -6016,7 +6054,9 @@
         "word": "feel"
       },
       {
-        "definition": [],
+        "definition": [
+          "Love is a feeling of strong attachment or admiration and caring for someone or something."
+        ],
         "examples": [
           "I love you."
         ],
@@ -8526,7 +8566,9 @@
         "word": "cost"
       },
       {
-        "definition": [],
+        "definition": [
+          "to cause something to separate into pieces or to stop working"
+        ],
         "examples": [
           "She was on her lunch break."
         ],
@@ -8539,7 +8581,9 @@
         "word": "break"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word work can be defined as a task or a series of tasks that are completed in order to achieve a goal. It can also refer to the effort that is put into completing a task or goals."
+        ],
         "examples": [
           "He started work as a security guard."
         ],
@@ -8702,7 +8746,9 @@
         "word": "dollar"
       },
       {
-        "definition": [],
+        "definition": [
+          "a meeting at which someone is asked questions in order to learn more about them"
+        ],
         "examples": [
           "interview somebody"
         ],
@@ -9033,7 +9079,9 @@
         "word": "herbicide"
       },
       {
-        "definition": [],
+        "definition": [
+          "a natural substance found in the bodies of humans and animals, stored as an energy reserve; also used to refer to dietary fats."
+        ],
         "examples": [
           "A fly was buzzing against the window."
         ],
@@ -9229,7 +9277,9 @@
         "definition": [
           "a black and white bird that lives in the Antarctic. Penguins cannot fly but use their wings for swimming. There are several types of penguin, some of them very large but some of them quite small."
         ],
-        "examples": [],
+        "examples": [
+          "the adorable penguins waddled along the icy shores of Antarctica, entertaining the tourists with their playful antics."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Animals/penguin.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -9678,7 +9728,9 @@
         "word": "deep-set eyes"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word fat can be used as a noun or an adjective. As a noun, it refers to a type of tissue in the body that stores energy and helps insulate against heat. It can also refer to a person who is overweight. As an adjective, it describes something that is high in"
+        ],
         "examples": [
           "excess body fat"
         ],
@@ -10327,7 +10379,9 @@
         "word": "education"
       },
       {
-        "definition": [],
+        "definition": [
+          "A report is a document that presents information in an organized format for a specific audience and purpose. Reports often include recommendations for future action."
+        ],
         "examples": [
           "report something"
         ],
@@ -10340,9 +10394,11 @@
         "word": "report"
       },
       {
-        "definition": [],
+        "definition": [
+          "to make a film of a story or a real event; to record somebody/something on film"
+        ],
         "examples": [
-          "They are filming in Moscow right now."
+          "they are filming in moscow right now."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Culture/film.png",
         "part_of_speech": "verb",
@@ -10593,8 +10649,12 @@
         "word": "introduction"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "the part of Los Angeles where the film industry is based"
+        ],
+        "examples": [
+          "The movie industry in Hollywood, California."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Culture/hollywood.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -10649,7 +10709,9 @@
         "word": "publish"
       },
       {
-        "definition": [],
+        "definition": [
+          "to gather together (objects, people, etc.) in a group, typically in order to deal with them or to use them for something"
+        ],
         "examples": [
           "collect something"
         ],
@@ -10800,7 +10862,9 @@
         "definition": [
           "a person who plays the guitar"
         ],
-        "examples": [],
+        "examples": [
+          "A guitarist is someone who plays the guitar."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Culture/guitarist.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -10941,7 +11005,9 @@
         "word": "worcestershire"
       },
       {
-        "definition": [],
+        "definition": [
+          "A person who prepares food for other people to eat is called a cook."
+        ],
         "examples": [
           "John is a very good cook (= he cooks well)."
         ],
@@ -11227,7 +11293,9 @@
         "definition": [
           "beef cut into small pieces and made into a flat round shape that is then fried, often served in a bread roll"
         ],
-        "examples": [],
+        "examples": [
+          "I had a beefburger for lunch."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Food and drink/beefburger.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -11360,7 +11428,9 @@
         "definition": [
           "a tropical fruit with smooth yellow or red skin, that is soft and orange inside with a large seed"
         ],
-        "examples": [],
+        "examples": [
+          "I ate a mango for breakfast."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Food and drink/mango.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -11448,7 +11518,9 @@
         "definition": [
           "a unit for measuring weight; 1 000 grams"
         ],
-        "examples": [],
+        "examples": [
+          "A kilo of cocaine."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Food and drink/kilo.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -11988,7 +12060,9 @@
         "word": "flu"
       },
       {
-        "definition": [],
+        "definition": [
+          "to run slowly and steadily for exercise or pleasure"
+        ],
         "examples": [
           "I like to go for a jog after work."
         ],
@@ -12442,7 +12516,9 @@
         "word": "french doors"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word upstairs typically refers to the second floor of a building, or to a level of authority above one's own."
+        ],
         "examples": [
           "an upstairs room/window/bathroom"
         ],
@@ -12455,7 +12531,9 @@
         "word": "upstairs"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word downstairs typically refers to the level of a building that is below the ground floor."
+        ],
         "examples": [
           "a downstairs bathroom"
         ],
@@ -12468,7 +12546,9 @@
         "word": "downstairs"
       },
       {
-        "definition": [],
+        "definition": [
+          "A brush is a tool with bristles, wire or other filaments, used for cleaning, grooming hair, painting, etc."
+        ],
         "examples": [
           "a paintbrush"
         ],
@@ -12481,7 +12561,9 @@
         "word": "brush"
       },
       {
-        "definition": [],
+        "definition": [
+          "a set of steps built between two floors inside a building."
+        ],
         "examples": [
           "We had to carry the piano up three flights of stairs."
         ],
@@ -13141,7 +13223,9 @@
         "word": "tourism"
       },
       {
-        "definition": [],
+        "definition": [
+          "a creature that lives in water and has gills"
+        ],
         "examples": [
           "The trawler was fishing off the coast of Iceland."
         ],
@@ -13675,7 +13759,9 @@
         "word": "recycling"
       },
       {
-        "definition": [],
+        "definition": [
+          "A plant is a living organism that typically grows in the ground, with a stem, leaves, and roots, and produces flowers or fruits."
+        ],
         "examples": [
           "to plant a tree/seed/crop"
         ],
@@ -13688,7 +13774,9 @@
         "word": "plant"
       },
       {
-        "definition": [],
+        "definition": [
+          "to drop or descend suddenly to a lower place or position; to come down"
+        ],
         "examples": [
           "I had a bad fall and broke my arm."
         ],
@@ -13986,7 +14074,9 @@
         "word": "lake"
       },
       {
-        "definition": [],
+        "definition": [
+          "A continent is a large landmass on Earth, usually defined as a mass of land that is completely surrounded by water. There are seven continents: Asia, Africa, North America, South America, Europe, Australia, and Antarctica."
+        ],
         "examples": [
           "the continent of Africa"
         ],
@@ -14014,7 +14104,9 @@
         "word": "petrol"
       },
       {
-        "definition": [],
+        "definition": [
+          "The south-east is the direction towards the south-east from a given point, or the area in the south-east of a given point."
+        ],
         "examples": [
           "south-east England"
         ],
@@ -14027,8 +14119,12 @@
         "word": "south-east"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "The direction which lies to the north-west of a given point."
+        ],
+        "examples": [
+          "The wind is blowing from the north-west."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Natural world/north-west.png",
         "part_of_speech": "adjective",
         "phonetics": {
@@ -14068,8 +14164,12 @@
         "word": "garbage"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "The north-east is an area of the United States that includes the states of Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, and Connecticut."
+        ],
+        "examples": [
+          "The wind is blowing from the north-east."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Natural world/north-east.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -14511,7 +14611,9 @@
         "word": "listener"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word hope is defined as a feeling of expectation or desire for a certain thing to happen."
+        ],
         "examples": [
           "Don't lose hope—we'll find her."
         ],
@@ -14524,7 +14626,9 @@
         "word": "hope"
       },
       {
-        "definition": [],
+        "definition": [
+          "A train is a vehicle consisting of a series of connected cars that are used to transport people or goods."
+        ],
         "examples": [
           "train somebody/something"
         ],
@@ -14762,7 +14866,9 @@
         "word": "careful"
       },
       {
-        "definition": [],
+        "definition": [
+          "A smile is a facial expression that typically indicates pleasure, happiness, or amusement."
+        ],
         "examples": [
           "a broad/warm/bright/slight smile"
         ],
@@ -15331,7 +15437,9 @@
         "word": "leader"
       },
       {
-        "definition": [],
+        "definition": [
+          "of or relating to Europe or its people"
+        ],
         "examples": [
           "a good European"
         ],
@@ -15449,8 +15557,12 @@
         "word": "wedding"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "a person of African descent"
+        ],
+        "examples": [
+          "African American"
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Politics and society/african.png",
         "part_of_speech": "adjective",
         "phonetics": {
@@ -15580,7 +15692,9 @@
         "word": "document"
       },
       {
-        "definition": [],
+        "definition": [
+          "Of or relating to Asia or its peoples, languages, or cultures."
+        ],
         "examples": [
           "Asian music"
         ],
@@ -16250,7 +16364,9 @@
         "word": "silver"
       },
       {
-        "definition": [],
+        "definition": [
+          "A female is a person who is biologically female, or someone who identifies as female."
+        ],
         "examples": [
           "One adult female can lay 400 to 500 eggs."
         ],
@@ -16263,7 +16379,9 @@
         "word": "female"
       },
       {
-        "definition": [],
+        "definition": [
+          "of or denoting the sex that produces gametes, typically spermatozoa, with which a female may be fertilized or inseminated to produce offspring; (of an animal or plant) having organs or parts that ensure the production of male gametes; (of a"
+        ],
         "examples": [
           "The male of the species has a white tail."
         ],
@@ -16923,7 +17041,9 @@
         "word": "opportunity"
       },
       {
-        "definition": [],
+        "definition": [
+          "To ride is to travel on the back of an animal or in a vehicle."
+        ],
         "examples": [
           "a train ride through beautiful countryside"
         ],
@@ -16966,7 +17086,9 @@
         "word": "running"
       },
       {
-        "definition": [],
+        "definition": [
+          "final means the last or ultimate stage of something, indicating that it is the conclusion or endpoint."
+        ],
         "examples": [
           "She reached the final of the 100m hurdles."
         ],
@@ -17088,7 +17210,7 @@
           "to take part in a contest or game"
         ],
         "examples": [
-          "The games were an outstanding success, with almost 2 400 athletes competing."
+          "the games were an outstanding success, with almost 2400 athletes competing."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Sport/compete.png",
         "part_of_speech": "verb",
@@ -17148,7 +17270,7 @@
           "a person who competes in sports"
         ],
         "examples": [
-          "Olympic athletes"
+          "olympic athletes"
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Sport/athlete.png",
         "part_of_speech": "noun",
@@ -17163,7 +17285,7 @@
           "the sport or activity of moving over snow on skis"
         ],
         "examples": [
-          "He also enjoys skiing and mountain biking."
+          "he also enjoys skiing and mountain biking."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Sport/skiing.png",
         "part_of_speech": "noun",
@@ -17174,9 +17296,11 @@
         "word": "skiing"
       },
       {
-        "definition": [],
+        "definition": [
+          "ski is the action of gliding over snow on skis as a recreational or competitive activity."
+        ],
         "examples": [
-          "Our children want to learn to ski."
+          "our children want to learn to ski."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Sport/ski.png",
         "part_of_speech": "verb",
@@ -17220,7 +17344,9 @@
         "definition": [
           "a game in which two teams of six players use their hands to hit a large ball backwards and forwards over a high net while trying not to let the ball touch the ground on their own side"
         ],
-        "examples": [],
+        "examples": [
+          "we enjoy playing volleyball at the beach during the summer months."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Sport/volleyball.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -17672,7 +17798,9 @@
         "word": "cycle"
       },
       {
-        "definition": [],
+        "definition": [
+          "before refers to a time or place earlier than a particular point in time or a previous event."
+        ],
         "examples": [
           "Do it before you forget."
         ],
@@ -18745,9 +18873,11 @@
         "word": "references"
       },
       {
-        "definition": [],
+        "definition": [
+          "pay means to give money or something of value in exchange for goods, services, or a debt."
+        ],
         "examples": [
-          "Her job is hard work, but the pay is good."
+          "her job is hard work, but the pay is good."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/A2/Work and business/pay.png",
         "part_of_speech": "noun",
@@ -18773,7 +18903,9 @@
         "word": "offer"
       },
       {
-        "definition": [],
+        "definition": [
+          "A person who provides assistance to another person"
+        ],
         "examples": [
           "the assistant manager/director/commissioner"
         ],
@@ -19668,7 +19800,9 @@
         "definition": [
           "an animal like a large mouse, with large cheeks (= sides of the face) for storing food. Hamsters are often kept as pets."
         ],
-        "examples": [],
+        "examples": [
+          "I have a hamster."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B1/Animals/hamster.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -19681,7 +19815,9 @@
         "definition": [
           "a dog that is trained to help control sheep on a farm"
         ],
-        "examples": [],
+        "examples": [
+          "A sheepdog is a type of dog that is trained to herd sheep."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B1/Animals/sheepdog.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -19709,7 +19845,9 @@
         "definition": [
           "a glass bowl for keeping fish in as pets"
         ],
-        "examples": [],
+        "examples": [
+          "A fishbowl is a glass bowl in which fish are kept."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B1/Animals/fishbowl.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -19722,7 +19860,9 @@
         "definition": [
           "a bird that lives close to the sea, for example on cliffs or islands, and gets its food from it"
         ],
-        "examples": [],
+        "examples": [
+          "Seabirds are birds that live in or around the sea."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B1/Animals/seabird.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -20021,7 +20161,9 @@
         "word": "handlebar mustache"
       },
       {
-        "definition": [],
+        "definition": [
+          "A colour is a visual attribute of things that results from the light they reflect, emit, or transmit, or from the observers' ability to distinguish different wavelengths of light."
+        ],
         "examples": [
           "The children love to draw and colour."
         ],
@@ -20034,7 +20176,9 @@
         "word": "colour"
       },
       {
-        "definition": [],
+        "definition": [
+          "A cream is a thick, smooth, and rich liquid food made from milk and cream."
+        ],
         "examples": [
           "a cream linen suit"
         ],
@@ -20047,7 +20191,9 @@
         "word": "cream"
       },
       {
-        "definition": [],
+        "definition": [
+          "One who designs, especially one who designs buildings, interiors, or other objects."
+        ],
         "examples": [
           "designer clothes"
         ],
@@ -20423,7 +20569,9 @@
         "definition": [
           "with grey hair"
         ],
-        "examples": [],
+        "examples": [
+          "My grandmother is a grey-haired woman."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B1/Appearance/grey-haired.png",
         "part_of_speech": "adjective",
         "phonetics": {
@@ -20770,7 +20918,9 @@
         "word": "show"
       },
       {
-        "definition": [],
+        "definition": [
+          "of or relating to music; concerned with or capable of producing music; melodious; harmonious"
+        ],
         "examples": [
           "a Broadway/Hollywood musical"
         ],
@@ -20783,7 +20933,9 @@
         "word": "musical"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word view can mean different things depending on the context in which it is used. For example, it can refer to the act of looking at something, as in \"I got a good view of the stage from my seat in the back row.\" It can also refer to someone's opinion or"
+        ],
         "examples": [
           "view somebody/something + adv./prep."
         ],
@@ -20796,7 +20948,9 @@
         "word": "view"
       },
       {
-        "definition": [],
+        "definition": [
+          "A tour is a guided visit of a place, typically one that is historical or cultural in nature."
+        ],
         "examples": [
           "tour something"
         ],
@@ -20839,7 +20993,9 @@
         "word": "theme"
       },
       {
-        "definition": [],
+        "definition": [
+          "(adjective) moving from one place to another without changing direction or stopping; (verb) to cause something to move in a particular direction"
+        ],
         "examples": [
           "He was asked to take command and direct operations."
         ],
@@ -21047,7 +21203,9 @@
         "word": "entry"
       },
       {
-        "definition": [],
+        "definition": [
+          "to do or say again; to recite or utter again; to make mention of again; to do or perform again; to go over or through again; to make a second or further attempt at; to try again; as, to repeat a lesson"
+        ],
         "examples": [
           "repeat of something"
         ],
@@ -21809,7 +21967,9 @@
         "word": "clafoutis"
       },
       {
-        "definition": [],
+        "definition": [
+          "a meal usually eaten in the middle of the day"
+        ],
         "examples": [
           "He lunched with a client at the Ritz."
         ],
@@ -21822,7 +21982,9 @@
         "word": "lunch"
       },
       {
-        "definition": [],
+        "definition": [
+          "A diet is a plan of food and drink to be consumed over a period of time, typically in an effort to lose weight or improve one's health."
+        ],
         "examples": [
           "She's always dieting but she never seems to lose any weight."
         ],
@@ -21835,7 +21997,9 @@
         "word": "diet"
       },
       {
-        "definition": [],
+        "definition": [
+          "Warm is defined as having or giving off heat."
+        ],
         "examples": [
           "warm something/somebody/yourself"
         ],
@@ -22287,7 +22451,9 @@
         "word": "health-care"
       },
       {
-        "definition": [],
+        "definition": [
+          "A tape is a long, thin strip of paper, cloth, or plastic with markings on it that are used to measure distance or to show position."
+        ],
         "examples": [
           "Private conversations between the two had been taped and sent to a newspaper."
         ],
@@ -22678,7 +22844,9 @@
         "definition": [
           "a person who jogs regularly for exercise"
         ],
-        "examples": [],
+        "examples": [
+          "A jogger is a person who jogs, or runs slowly for exercise."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B1/Health/jogger.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -23160,7 +23328,9 @@
         "word": "façade"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word face can be used as a noun or a verb. When used as a noun, face refers to the front part of the head, including the eyes, nose, and mouth. When used as a verb, face means to turn toward or present oneself to someone."
+        ],
         "examples": [
           "face somebody/something"
         ],
@@ -23173,7 +23343,9 @@
         "word": "face"
       },
       {
-        "definition": [],
+        "definition": [
+          "to change position or location; to go or come to a different place"
+        ],
         "examples": [
           "Don't make a move!"
         ],
@@ -23351,7 +23523,9 @@
         "word": "refrigerator"
       },
       {
-        "definition": [],
+        "definition": [
+          "a condition of abundance or great ease and comfort; a state of great comfort or extravagance, especially when involving great expense"
+        ],
         "examples": [
           "a luxury hotel/car/apartment"
         ],
@@ -23835,7 +24009,9 @@
         "word": "karate"
       },
       {
-        "definition": [],
+        "definition": [
+          "to move or travel; to proceed"
+        ],
         "examples": [
           "Whose go is it?"
         ],
@@ -24148,7 +24324,9 @@
         "word": "crossword"
       },
       {
-        "definition": [],
+        "definition": [
+          "A skateboard is a small, rectangular platform with four wheels attached to it. Skateboards are used for riding on smooth surfaces, such as sidewalks and driveways."
+        ],
         "examples": [
           "a skateboard park/ramp"
         ],
@@ -24584,7 +24762,9 @@
         "word": "wind energy"
       },
       {
-        "definition": [],
+        "definition": [
+          "Water is a substance that is essential for all life. It is a clear, colorless, odorless, and tasteless liquid that is the main component of Earth's hydrosphere."
+        ],
         "examples": [
           "to water the plants/garden"
         ],
@@ -24597,7 +24777,9 @@
         "word": "water"
       },
       {
-        "definition": [],
+        "definition": [
+          "calm and relaxed; not excited or agitated"
+        ],
         "examples": [
           "the cool of the evening"
         ],
@@ -24625,7 +24807,9 @@
         "word": "western"
       },
       {
-        "definition": [],
+        "definition": [
+          "to cause (something) to curve or to be bent\n\nCan you bend your knees?\n\nYes, I can bend my knees."
+        ],
         "examples": [
           "a sharp bend in the road"
         ],
@@ -25272,7 +25456,9 @@
         "word": "teamwork"
       },
       {
-        "definition": [],
+        "definition": [
+          "to give way to anxiety or stress; to be concerned or troubled about something"
+        ],
         "examples": [
           "The threat of losing their jobs is a constant source of worry to them."
         ],
@@ -25285,7 +25471,9 @@
         "word": "worry"
       },
       {
-        "definition": [],
+        "definition": [
+          "A relative is a person who is related to another person by blood or marriage."
+        ],
         "examples": [
           "a close/distant relative"
         ],
@@ -25328,7 +25516,9 @@
         "word": "organized"
       },
       {
-        "definition": [],
+        "definition": [
+          "Kind means having a helpful, caring, or friendly nature."
+        ],
         "examples": [
           "a very kind and helpful person"
         ],
@@ -25461,7 +25651,9 @@
         "word": "educational"
       },
       {
-        "definition": [],
+        "definition": [
+          "to feel amazement or surprise; to be astonished"
+        ],
         "examples": [
           "He retained a childlike sense of wonder."
         ],
@@ -25534,7 +25726,9 @@
         "word": "duty"
       },
       {
-        "definition": [],
+        "definition": [
+          "A mark is a visible sign or impression made on something, typically as a record of it having been present or as a label."
+        ],
         "examples": [
           "punctuation marks"
         ],
@@ -26106,7 +26300,9 @@
         "word": "human rights"
       },
       {
-        "definition": [],
+        "definition": [
+          "The head is the uppermost or foremost part of the body of a vertebrate, typically containing the brain, eyes, ears, nose, and mouth."
+        ],
         "examples": [
           "Where are we heading?"
         ],
@@ -26134,7 +26330,9 @@
         "word": "order"
       },
       {
-        "definition": [],
+        "definition": [
+          "Actions are the doing or performing of something."
+        ],
         "examples": [
           "You have committed a serious criminal act."
         ],
@@ -26147,7 +26345,9 @@
         "word": "act"
       },
       {
-        "definition": [],
+        "definition": [
+          "A state is a political division of a country, typically one that contains at least one major city."
+        ],
         "examples": [
           "state officials/agencies"
         ],
@@ -26160,7 +26360,9 @@
         "word": "state"
       },
       {
-        "definition": [],
+        "definition": [
+          "A person who has committed a crime, especially a felony."
+        ],
         "examples": [
           "criminal offences/activities"
         ],
@@ -26203,7 +26405,9 @@
         "word": "guard"
       },
       {
-        "definition": [],
+        "definition": [
+          "not right or correct; incorrect"
+        ],
         "examples": [
           "Children must be taught the difference between right and wrong."
         ],
@@ -26216,7 +26420,9 @@
         "word": "wrong"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word left means to depart from or go in a different direction."
+        ],
         "examples": [
           "on the left"
         ],
@@ -26499,7 +26705,9 @@
         "word": "hang"
       },
       {
-        "definition": [],
+        "definition": [
+          "A bomb is a device that contains an explosive material and is designed to detonate or cause an explosion."
+        ],
         "examples": [
           "Warplanes bombed targets in and around the capital."
         ],
@@ -27008,7 +27216,9 @@
         "word": "sign"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word count is the number of words in a document or piece of writing."
+        ],
         "examples": [
           "If the election result is close, there will be a second count."
         ],
@@ -27036,7 +27246,9 @@
         "word": "stick"
       },
       {
-        "definition": [],
+        "definition": [
+          "Wireless refers to technologies that communicate without the use of wires or cables."
+        ],
         "examples": [
           "wireless communications"
         ],
@@ -27049,7 +27261,9 @@
         "word": "wireless"
       },
       {
-        "definition": [],
+        "definition": [
+          "a machine used for printing books, newspapers, or other documents"
+        ],
         "examples": [
           "press something"
         ],
@@ -27062,7 +27276,9 @@
         "word": "press"
       },
       {
-        "definition": [],
+        "definition": [
+          "(verb) to apply force to (something) so as to cause it to move toward the person or thing applying the force"
+        ],
         "examples": [
           "I gave the door a sharp pull and it opened."
         ],
@@ -27075,7 +27291,9 @@
         "word": "pull"
       },
       {
-        "definition": [],
+        "definition": [
+          "(noun) the ability to approach or enter a place; \"he has access to the files\"\n\n(verb) obtain or retrieve from a storage device; \"Can you access your data?\""
+        ],
         "examples": [
           "Most people use their phones to access the internet."
         ],
@@ -27148,7 +27366,9 @@
         "word": "conclude"
       },
       {
-        "definition": [],
+        "definition": [
+          "A type is a category of things that share a common set of characteristics."
+        ],
         "examples": [
           "How fast can you type?"
         ],
@@ -27296,7 +27516,9 @@
         "word": "scientific"
       },
       {
-        "definition": [],
+        "definition": [
+          "An experiment is a scientific procedure that is carried out to test a hypothesis, or to observe and study a phenomenon."
+        ],
         "examples": [
           "After experimenting at Columbia University, he realized that fission was the key to releasing nuclear energy."
         ],
@@ -27732,7 +27954,9 @@
         "word": "skateboarding"
       },
       {
-        "definition": [],
+        "definition": [
+          "a vehicle with two wheels that is propelled by a person riding it, either by pedaling or by using a motor"
+        ],
         "examples": [
           "My dad bikes to work every day."
         ],
@@ -27745,8 +27969,12 @@
         "word": "bike"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "a vehicle with two wheels that is propelled by a person riding on it, either by pedaling or by using a motor"
+        ],
+        "examples": [
+          "I ride my bicycle to school every day."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B1/Sport/bicycle.png",
         "part_of_speech": "verb",
         "phonetics": {
@@ -27756,7 +27984,9 @@
         "word": "bicycle"
       },
       {
-        "definition": [],
+        "definition": [
+          "to keep or protect from harm, loss, or destruction"
+        ],
         "examples": [
           "He made a spectacular save."
         ],
@@ -27934,7 +28164,9 @@
         "word": "competitor"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word olympic can be used as an adjective or a noun. As an adjective, it means relating to the Olympic Games. As a noun, it means the highest level of achievement in a particular field."
+        ],
         "examples": [
           "an Olympic athlete/medallist"
         ],
@@ -28055,7 +28287,9 @@
         "definition": [
           "a piece of clothing worn for swimming, especially the type worn by women and girls"
         ],
-        "examples": [],
+        "examples": [
+          "I need to buy a new swimsuit for my vacation next week."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B1/Sport/swimsuit.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -28805,7 +29039,9 @@
         "definition": [
           "a small reddish planet that is the 4th from the sun and is periodically visible to the naked eye; minerals rich in iron cover its surface and are responsible for its characteristic color"
         ],
-        "examples": [],
+        "examples": [
+          "The planet Mars is the fourth planet from the sun in the solar system."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B1/Time and space/mars.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -29950,7 +30186,9 @@
         "word": "analysis"
       },
       {
-        "definition": [],
+        "definition": [
+          "The definition of the word tip is the end or extremity of something."
+        ],
         "examples": [
           "Americans were always welcome because they tended to tip heavily."
         ],
@@ -29993,7 +30231,9 @@
         "word": "charge"
       },
       {
-        "definition": [],
+        "definition": [
+          "to cause to rise up; to lift up; to erect; to build; as, to raise a monument"
+        ],
         "examples": [
           "If I asked my boss for a raise he’d fire me."
         ],
@@ -30051,7 +30291,9 @@
         "word": "rate"
       },
       {
-        "definition": [],
+        "definition": [
+          "A tax is a mandatory financial charge or some other type of levy imposed upon a taxpayer (an individual or other legal entity) by a governmental organization in order to fund various public expenditures."
+        ],
         "examples": [
           "tax somebody/something"
         ],
@@ -30079,7 +30321,9 @@
         "word": "production"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word trade can be defined as the act of exchanging goods or services for money."
+        ],
         "examples": [
           "trade in something"
         ],
@@ -30627,7 +30871,9 @@
         "word": "mammal"
       },
       {
-        "definition": [],
+        "definition": [
+          "A creature is a living thing that is not a plant."
+        ],
         "examples": [
           "respect for all living creatures"
         ],
@@ -30640,7 +30886,9 @@
         "word": "creature"
       },
       {
-        "definition": [],
+        "definition": [
+          "A species is a group of living organisms consisting of similar individuals that are able to interbreed and produce fertile offspring."
+        ],
         "examples": [
           "a conservation area for endangered species"
         ],
@@ -30653,7 +30901,9 @@
         "word": "species"
       },
       {
-        "definition": [],
+        "definition": [
+          "Wildlife refers to all undomesticated animals, plants, and other organisms that live in the wild."
+        ],
         "examples": [
           "policies designed to protect wildlife"
         ],
@@ -30681,7 +30931,9 @@
         "word": "cage"
       },
       {
-        "definition": [],
+        "definition": [
+          "a hoofed mammal of the family Cervidae, having branched horns and, in the male, antlers, often considered to constitute a distinct genus, Cervus, or subfamily, Cervinae"
+        ],
         "examples": [
           "a herd of deer"
         ],
@@ -30724,8 +30976,12 @@
         "word": "feather"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "A kitten is a young cat."
+        ],
+        "examples": [
+          "I saw a kitten in the street."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B2/Animals/kitten.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -30735,7 +30991,9 @@
         "word": "kitten"
       },
       {
-        "definition": [],
+        "definition": [
+          "a marine mollusk with a hard, irregular shell, typically convex and iridescent on the inside, that secretes a pearl when irritated"
+        ],
         "examples": [
           "Oyster beds, on the mudflats, are a form of fish farming."
         ],
@@ -30748,7 +31006,9 @@
         "word": "oyster"
       },
       {
-        "definition": [],
+        "definition": [
+          "a small, thin, soft-bodied creature that typically lives in soil or water"
+        ],
         "examples": [
           "birds looking for worms"
         ],
@@ -30791,7 +31051,9 @@
         "word": "extinction"
       },
       {
-        "definition": [],
+        "definition": [
+          "A ape is a type of mammal that is closely related to humans. They are typically found in tropical or subtropical regions of the world."
+        ],
         "examples": [
           "the great apes (= for example, orangutans or chimpanzees)"
         ],
@@ -30804,8 +31066,12 @@
         "word": "ape"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "a reptile of the order Testudines, typically having a dark-colored, domed shell, and found in warm climates"
+        ],
+        "examples": [
+          "The tortoise is a land-dwelling reptile that is characterized by a high, domed shell."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B2/Animals/tortoise.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -30815,7 +31081,9 @@
         "word": "tortoise"
       },
       {
-        "definition": [],
+        "definition": [
+          "a substance produced by some animals, typically snakes, spiders, and scorpions, that is capable of causing injury or death to other animals through its action on the nervous system"
+        ],
         "examples": [
           "The snake injects the venom immediately after biting its prey."
         ],
@@ -30828,7 +31096,9 @@
         "word": "venom"
       },
       {
-        "definition": [],
+        "definition": [
+          "A young dog, typically one less than a year old."
+        ],
         "examples": [
           "a litter of puppies"
         ],
@@ -30841,7 +31111,9 @@
         "word": "puppy"
       },
       {
-        "definition": [],
+        "definition": [
+          "a nocturnal bird of prey with large eyes, a hooked beak, and typically a loud call"
+        ],
         "examples": [
           "An owl hooted nearby."
         ],
@@ -30854,7 +31126,9 @@
         "word": "owl"
       },
       {
-        "definition": [],
+        "definition": [
+          "A pigeon is a bird of the family Columbidae. Pigeons occur naturally in most parts of the world. In general, pigeons are medium-sized birds with plump bodies and short necks. They have narrow wings and pointed tails."
+        ],
         "examples": [
           "the sound of pigeons cooing"
         ],
@@ -30882,7 +31156,9 @@
         "word": "goose"
       },
       {
-        "definition": [],
+        "definition": [
+          "A snail is a small, slimy creature that lives in damp places. Snails have a soft, round body and a hard, spiral shell. They move very slowly, and they eat plants."
+        ],
         "examples": [
           "the war with the slugs and snails in my garden"
         ],
@@ -30895,7 +31171,9 @@
         "word": "snail"
       },
       {
-        "definition": [],
+        "definition": [
+          "A donkey is a mammal of the equine family, which includes horses and zebras. Donkeys are often used as working animals, but they can also be kept as pets."
+        ],
         "examples": [
           "We've known each other for donkey's years."
         ],
@@ -30908,7 +31186,9 @@
         "word": "donkey"
       },
       {
-        "definition": [],
+        "definition": [
+          "No longer in existence; having died out."
+        ],
         "examples": [
           "an extinct species"
         ],
@@ -30921,8 +31201,12 @@
         "word": "extinct"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "A zebra is a mammal of the family Equidae. The zebra is an African animal, best known for its distinctive black and white stripes."
+        ],
+        "examples": [
+          "A zebra is a black-and-white striped horse."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B2/Animals/zebra.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -30932,8 +31216,12 @@
         "word": "zebra"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "A dinosaur is a large, extinct reptile that lived during the Mesozoic Era."
+        ],
+        "examples": [
+          "Tyrannosaurus Rex"
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B2/Animals/dinosaur.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -31624,8 +31912,12 @@
         "word": "wear"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "A lemon is a citrus fruit that is yellow in color. Lemons are used to add flavor to food and to make lemonade."
+        ],
+        "examples": [
+          "Lemonade"
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B2/Appearance/lemon.png",
         "part_of_speech": "adjective",
         "phonetics": {
@@ -31635,7 +31927,9 @@
         "word": "lemon"
       },
       {
-        "definition": [],
+        "definition": [
+          "a ice skate is a shoe with a blade attached to the bottom that is used for gliding across ice"
+        ],
         "examples": [
           "a pair of skates"
         ],
@@ -31663,7 +31957,9 @@
         "word": "zip"
       },
       {
-        "definition": [],
+        "definition": [
+          "The quality or state of being white."
+        ],
         "examples": [
           "The whiteness of her skin was enhanced by the darkness of her hair."
         ],
@@ -31706,7 +32002,9 @@
         "word": "darkness"
       },
       {
-        "definition": [],
+        "definition": [
+          "The quality or state of being black."
+        ],
         "examples": [
           "She peered out into the blackness of the night."
         ],
@@ -31719,8 +32017,12 @@
         "word": "blackness"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "A blood-red color is a deep, dark red. It is the color of blood, and can also be used to describe something that is very intense or violent."
+        ],
+        "examples": [
+          "The sky was blood-red as the sun set."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B2/Appearance/blood-red.png",
         "part_of_speech": "adjective",
         "phonetics": {
@@ -32199,8 +32501,12 @@
         "word": "present"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "A person who writes a book, article, or document"
+        ],
+        "examples": [
+          "The author of the book is unknown."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B2/Culture/author.png",
         "part_of_speech": "verb",
         "phonetics": {
@@ -32285,7 +32591,9 @@
         "word": "plot"
       },
       {
-        "definition": [],
+        "definition": [
+          "a short advertisement or trailer for a movie, play, or television program"
+        ],
         "examples": [
           "a press preview (= for journalists only)"
         ],
@@ -32328,7 +32636,9 @@
         "word": "image"
       },
       {
-        "definition": [],
+        "definition": [
+          "Clay is a type of soil that is made up of very small particles of minerals. It is often used in pottery and ceramic arts."
+        ],
         "examples": [
           "Not much can grow in the wet clay here."
         ],
@@ -32371,7 +32681,9 @@
         "word": "index"
       },
       {
-        "definition": [],
+        "definition": [
+          "of, relating to, or having the characteristics of literature; concerned with literature"
+        ],
         "examples": [
           "literary criticism/theory"
         ],
@@ -32384,7 +32696,9 @@
         "word": "literary"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word dramatic can be defined as relating to or characteristic of drama, or intense, emotional, or exciting."
+        ],
         "examples": [
           "a dramatic increase/change/improvement/shift"
         ],
@@ -32427,7 +32741,9 @@
         "word": "silent"
       },
       {
-        "definition": [],
+        "definition": [
+          "The activity, business, or profession of preparing and issuing books, magazines, newspapers, and other printed matter."
+        ],
         "examples": [
           "a job in publishing"
         ],
@@ -32440,7 +32756,9 @@
         "word": "publishing"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word publication means the act or process of making something available to the public, typically in print or electronically."
+        ],
         "examples": [
           "specialist publications"
         ],
@@ -32453,7 +32771,9 @@
         "word": "publication"
       },
       {
-        "definition": [],
+        "definition": [
+          "A group of musicians playing together on various instruments, typically including stringed instruments, brass, woodwind, and percussion instruments."
+        ],
         "examples": [
           "She plays the flute in the school orchestra."
         ],
@@ -32481,7 +32801,9 @@
         "word": "release"
       },
       {
-        "definition": [],
+        "definition": [
+          "A particular version of a book, newspaper, or other text"
+        ],
         "examples": [
           "a paperback/hardback edition"
         ],
@@ -32494,7 +32816,9 @@
         "word": "edition"
       },
       {
-        "definition": [],
+        "definition": [
+          "(adjective) of the first or highest quality, rank, or class"
+        ],
         "examples": [
           "The film is now a cult classic."
         ],
@@ -35038,8 +35362,12 @@
         "word": "level"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "A schoolhouse is a building where children go to school."
+        ],
+        "examples": [
+          "The schoolhouse was a small, one-room building."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B2/Homes and buildings/schoolhouse.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -35064,7 +35392,9 @@
         "word": "maintain"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word property can refer to a physical attribute of something, or it can refer to something that someone owns."
+        ],
         "examples": [
           "personal/stolen property"
         ],
@@ -35665,8 +35995,12 @@
         "word": "masterpiece"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "The definition of self-service is \"the sale of goods or services to the public without the intervention of a sales clerk or other employee.\""
+        ],
+        "examples": [
+          "The grocery store offers a self-service checkout lane for customers who want to avoid waiting in line."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B2/Leisure/self-service.png",
         "part_of_speech": "adjective",
         "phonetics": {
@@ -35676,7 +36010,9 @@
         "word": "self-service"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word \"downtown\" can refer to the central business district of a city, where most of the commercial and economic activity is concentrated. It can also refer to a city's main shopping area, which is often located in the downtown area."
+        ],
         "examples": [
           "to go/work downtown"
         ],
@@ -35734,7 +36070,9 @@
         "word": "world"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word purchase means to buy something."
+        ],
         "examples": [
           "to make a purchase (= buy something)"
         ],
@@ -35777,7 +36115,9 @@
         "word": "counter"
       },
       {
-        "definition": [],
+        "definition": [
+          "to move about or go from place to place without a fixed destination; to roam"
+        ],
         "examples": [
           "+ adv./prep."
         ],
@@ -35805,7 +36145,9 @@
         "word": "range"
       },
       {
-        "definition": [],
+        "definition": [
+          "A basket is a container that is typically made of woven materials, such as wicker or rattan. baskets are often used for storing things, or for carrying things."
+        ],
         "examples": [
           "a shopping basket"
         ],
@@ -35833,7 +36175,9 @@
         "word": "delivery"
       },
       {
-        "definition": [],
+        "definition": [
+          "A trolley is a vehicle that runs on rails and is used for carrying passengers or goods."
+        ],
         "examples": [
           "a shopping/supermarket/luggage trolley"
         ],
@@ -38121,7 +38465,9 @@
         "word": "media literacy"
       },
       {
-        "definition": [],
+        "definition": [
+          "A sentence is a group of words that are put together to mean something. A sentence is usually made up of a subject and a predicate."
+        ],
         "examples": [
           "sentence somebody to something"
         ],
@@ -38194,7 +38540,9 @@
         "word": "target"
       },
       {
-        "definition": [],
+        "definition": [
+          "A desert is a dry, barren area of land where little to no vegetation grows."
+        ],
         "examples": [
           "She was deserted by her husband."
         ],
@@ -38270,7 +38618,9 @@
         "definition": [
           "a chronic drinker"
         ],
-        "examples": [],
+        "examples": [
+          "I was so drunk that I couldn't stand up."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B2/Politics and society/drunk.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -40742,7 +41092,9 @@
         "word": "exhibit"
       },
       {
-        "definition": [],
+        "definition": [
+          "(adverb) at that time; (conjunction) after that; next; (noun) that time"
+        ],
         "examples": [
           "Life was harder then because neither of us had a job."
         ],
@@ -40770,7 +41122,9 @@
         "word": "found"
       },
       {
-        "definition": [],
+        "definition": [
+          "(adverb) to the greatest possible degree; extremely"
+        ],
         "examples": [
           "She knows every student in the school."
         ],
@@ -40783,7 +41137,9 @@
         "word": "every"
       },
       {
-        "definition": [],
+        "definition": [
+          "in the past; previously"
+        ],
         "examples": [
           "Namibia, formerly known as South West Africa"
         ],
@@ -40826,7 +41182,9 @@
         "word": "origin"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word beyond can mean \"on or to the farther side of,\" \"farther along in space or time,\" \"superior to in rank or achievement,\" or \"going beyond ordinary limits.\""
+        ],
         "examples": [
           "The road continues beyond the village up into the hills."
         ],
@@ -40839,7 +41197,9 @@
         "word": "beyond"
       },
       {
-        "definition": [],
+        "definition": [
+          "one who forms or shapes; a molder"
+        ],
         "examples": [
           "This fine ruin was, in former times, a royal castle."
         ],
@@ -40852,7 +41212,9 @@
         "word": "former"
       },
       {
-        "definition": [],
+        "definition": [
+          "(adverb) within the past few days, weeks, or months; recently"
+        ],
         "examples": [
           "Have you seen her lately?"
         ],
@@ -40865,7 +41227,9 @@
         "word": "lately"
       },
       {
-        "definition": [],
+        "definition": [
+          "(adjective) Happening or done regularly, typically every day; (noun) The ordinary events and activities that happen in one's life; (adverb) Happening or done regularly, typically every day."
+        ],
         "examples": [
           "I have organized the cleaning on a day-to-day basis, until our usual cleaner returns."
         ],
@@ -40878,7 +41242,9 @@
         "word": "day-to-day"
       },
       {
-        "definition": [],
+        "definition": [
+          "A session is a meeting or series of meetings of a group, typically a deliberative or legislative body, for the conduct of business."
+        ],
         "examples": [
           "a training/practice session"
         ],
@@ -40891,7 +41257,9 @@
         "word": "session"
       },
       {
-        "definition": [],
+        "definition": [
+          "The universe is the totality of everything that exists, including all matter and energy, the planets, stars, galaxies, and the contents of intergalactic space."
+        ],
         "examples": [
           "in the universe"
         ],
@@ -40904,7 +41272,9 @@
         "word": "universe"
       },
       {
-        "definition": [],
+        "definition": [
+          "Contemporary refers to something that is happening or existing at the same time as something else."
+        ],
         "examples": [
           "We have no contemporary account of the battle (= written near the time that it happened)."
         ],
@@ -40917,7 +41287,9 @@
         "word": "contemporary"
       },
       {
-        "definition": [],
+        "definition": [
+          "a sudden or dramatic change in something"
+        ],
         "examples": [
           "a socialist revolution"
         ],
@@ -40930,7 +41302,9 @@
         "word": "revolution"
       },
       {
-        "definition": [],
+        "definition": [
+          "A civilization is an advanced state of human society, in which a high level of culture, science, industry, and government has been reached."
+        ],
         "examples": [
           "the technology of modern civilization"
         ],
@@ -40943,7 +41317,9 @@
         "word": "civilization"
       },
       {
-        "definition": [],
+        "definition": [
+          "A myth is a story that is based on tradition and that is believed to be true."
+        ],
         "examples": [
           "ancient Greek myths"
         ],
@@ -40956,7 +41332,9 @@
         "word": "myth"
       },
       {
-        "definition": [],
+        "definition": [
+          "A historian is a person who studies history."
+        ],
         "examples": [
           "No serious historian today accepts this theory."
         ],
@@ -40969,7 +41347,9 @@
         "word": "historian"
       },
       {
-        "definition": [],
+        "definition": [
+          "a period of time in history or in a person's life"
+        ],
         "examples": [
           "the Victorian/modern/post-war era"
         ],
@@ -40982,7 +41362,9 @@
         "word": "era"
       },
       {
-        "definition": [],
+        "definition": [
+          "a system for fixing the beginning, length, and divisions of the civil year and arranging days and longer divisions of time (such as weeks and months) in a definite order"
+        ],
         "examples": [
           "a calendar for 2020/a 2020 calendar"
         ],
@@ -41432,9 +41814,9 @@
         "part_of_speech": "noun",
         "phonetics": {
           "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/phonetics/B2/Travelling/expat (expatriate).mp3",
-          "transcription": ""
+          "transcription": "/ˈekspæt/"
         },
-        "word": "expat (expatriate)"
+        "word": "expat"
       },
       {
         "definition": [
@@ -42787,7 +43169,9 @@
         "word": "swallow (bird)"
       },
       {
-        "definition": [],
+        "definition": [
+          "A stroke is a medical emergency in which the blood supply to the brain is interrupted. This can happen due to a blockage, such as a clot, or bleeding."
+        ],
         "examples": [
           "He's a beautiful dog. Can I stroke him?"
         ],
@@ -42875,7 +43259,9 @@
         "word": "swarm"
       },
       {
-        "definition": [],
+        "definition": [
+          "a structure or place made or chosen by a bird to hold its eggs and rear its young"
+        ],
         "examples": [
           "Thousands of seabirds are nesting on the cliffs."
         ],
@@ -42906,7 +43292,9 @@
         "definition": [
           "a large tropical snake that kills animals for food by winding its long body tightly around them"
         ],
-        "examples": [],
+        "examples": [
+          "Python is a programming language."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C1/Animals/python.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -42931,8 +43319,12 @@
         "word": "antenna"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "A quack is a person who pretends to have medical skills or knowledge that they do not actually possess."
+        ],
+        "examples": [
+          "A quack is a person who claims to have medical or other skills that they do not actually possess."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C1/Animals/quack.png",
         "part_of_speech": "verb",
         "phonetics": {
@@ -42942,7 +43334,9 @@
         "word": "quack"
       },
       {
-        "definition": [],
+        "definition": [
+          "to make a loud, deep, prolonged sound"
+        ],
         "examples": [
           "His speech was greeted by a roar of applause."
         ],
@@ -42973,7 +43367,9 @@
         "definition": [
           "an African or Asian animal, like a deer, that runs very fast. There are many types of antelope."
         ],
-        "examples": [],
+        "examples": [
+          "The antelope is a hoofed mammal of the family Bovidae."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C1/Animals/antelope.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -43031,7 +43427,9 @@
         "definition": [
           "a bull (= a male cow) that has been castrated (= had part of its sex organs removed), used, especially in the past, for pulling farm equipment, etc."
         ],
-        "examples": [],
+        "examples": [
+          "The ox is a domesticated bovine animal that is used for its meat, milk, and labor."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C1/Animals/ox.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -43119,7 +43517,9 @@
         "definition": [
           "a large reptile similar to a crocodile, with a long tail, hard skin and very big jaws, that lives in rivers and lakes in North and South America and China"
         ],
-        "examples": [],
+        "examples": [
+          "Alligator is a word that describes a large reptile that lives in or near water."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C1/Animals/alligator.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -43174,8 +43574,12 @@
         "word": "paw"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "The Alsatian is a breed of dog that is also known as the Alsatian Wolfdog or the German Shepherd Dog."
+        ],
+        "examples": [
+          "The Alsatian is a German breed of dog."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C1/Animals/alsatian.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -43951,7 +44355,9 @@
         "word": "sartorialist"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word olive can be used as a noun or an adjective. As a noun, it refers to a small, oval-shaped fruit that is used as a food and for making oil. The adjective form describes something that is related to olives or olive oil, such as an olive-colored"
+        ],
         "examples": [
           "a dark olive green carpet"
         ],
@@ -43979,7 +44385,9 @@
         "word": "solid"
       },
       {
-        "definition": [],
+        "definition": [
+          "A wave is a disturbance in a medium that propagates from one point to another."
+        ],
         "examples": [
           "The people on the bus waved and we waved back."
         ],
@@ -43992,7 +44400,9 @@
         "word": "wave"
       },
       {
-        "definition": [],
+        "definition": [
+          "A rose is a type of flower that typically has a red color."
+        ],
         "examples": [
           "The walls were rose pink."
         ],
@@ -44616,7 +45026,9 @@
         "word": "anthropological"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word \"finish\" can mean many things. It can be a verb meaning to complete something, or it can be a noun meaning the end result of something. It can also describe the way something looks or feels when it is complete."
+        ],
         "examples": [
           "It was a close finish as they had predicted."
         ],
@@ -44629,7 +45041,9 @@
         "word": "finish"
       },
       {
-        "definition": [],
+        "definition": [
+          "to get hold of or acquire (something) by effort, skill, or force"
+        ],
         "examples": [
           "We managed to get it right in just two takes."
         ],
@@ -44642,7 +45056,9 @@
         "word": "take"
       },
       {
-        "definition": [],
+        "definition": [
+          "to produce (a text, picture, etc.) by applying inked types, plates, blocks, or the like, to paper or other material either by direct pressure or indirectly by offsetting an image onto an intermediate surface;\n\nto reproduce (a design or pattern) by engraving"
+        ],
         "examples": [
           "The tiny print was hard to read without my glasses."
         ],
@@ -44655,7 +45071,9 @@
         "word": "print"
       },
       {
-        "definition": [],
+        "definition": [
+          "(adverb) happening, done, or used every day;\n(adjective) done, occurring, or used every day;\n(noun) a newspaper that is published every day"
+        ],
         "examples": [
           "The story was in all the dailies."
         ],
@@ -44668,7 +45086,9 @@
         "word": "daily"
       },
       {
-        "definition": [],
+        "definition": [
+          "A script is a written or printed text that contains the words of a play, movie, or broadcast."
+        ],
         "examples": [
           "The series was scripted to appeal to an international audience."
         ],
@@ -44681,7 +45101,9 @@
         "word": "script"
       },
       {
-        "definition": [],
+        "definition": [
+          "A shade is a dark area, especially one caused by blocking out light."
+        ],
         "examples": [
           "shade somebody/something"
         ],
@@ -44724,7 +45146,9 @@
         "word": "cast"
       },
       {
-        "definition": [],
+        "definition": [
+          "happening every week; occurring or done once a week"
+        ],
         "examples": [
           "Most people launching weeklies were already weekly publishers."
         ],
@@ -45562,8 +45986,12 @@
         "word": "jardinière"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "A substance that is solid at room temperature and freezes to a liquid when heated."
+        ],
+        "examples": [
+          "I put some ice in my drink to cool it down."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C1/Food and drink/ice.png",
         "part_of_speech": "verb",
         "phonetics": {
@@ -47995,7 +48423,9 @@
         "word": "unwinding"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word \"craft\" can refer to an activity involving skill in making things by hand. It can also refer to a particular trade or profession."
+        ],
         "examples": [
           "be crafted (from something)"
         ],
@@ -48008,7 +48438,9 @@
         "word": "craft"
       },
       {
-        "definition": [],
+        "definition": [
+          "to continue to do something until a specified time, event, or condition; to wait for; to remain in a place until"
+        ],
         "examples": [
           "Please pay at the till."
         ],
@@ -48039,7 +48471,9 @@
         "definition": [
           "the hobby or activity of watching birds in their natural environment and identifying different species "
         ],
-        "examples": [],
+        "examples": [
+          "Birdwatching is the hobby of observing and identifying birds in their natural habitat."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C1/Leisure/birdwatching.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -48049,7 +48483,9 @@
         "word": "birdwatching"
       },
       {
-        "definition": [],
+        "definition": [
+          "(verb) to move smoothly along a surface; (noun) a smooth movement along a surface"
+        ],
         "examples": [
           "Here's a slide showing target markets."
         ],
@@ -48974,7 +49410,9 @@
         "word": "interspecific competition"
       },
       {
-        "definition": [],
+        "definition": [
+          "The process of cooking food in an oven using dry heat."
+        ],
         "examples": [
           "We waited for hours in the baking sun."
         ],
@@ -48987,7 +49425,9 @@
         "word": "baking"
       },
       {
-        "definition": [],
+        "definition": [
+          "(verb) to cause (a person, animal, or object) to go or to be sent by shooting; \n(verb) to hit or to wound (a person or animal) by shooting; \n(verb) to fire a gun or missile at (a person, animal"
+        ],
         "examples": [
           "new green shoots"
         ],
@@ -49015,7 +49455,9 @@
         "word": "surf"
       },
       {
-        "definition": [],
+        "definition": [
+          "not decorated or elaborate; simple"
+        ],
         "examples": [
           "the flat coastal plain of Thassos"
         ],
@@ -49827,7 +50269,9 @@
         "word": "connotation"
       },
       {
-        "definition": [],
+        "definition": [
+          "A pig is a mammal of the family Suidae, with short legs, a big body, and a snout that is used for rooting in the ground."
+        ],
         "examples": [
           "pig something"
         ],
@@ -49855,7 +50299,9 @@
         "word": "tense"
       },
       {
-        "definition": [],
+        "definition": [
+          "A parent is a caretaker of a child or children, either biological or adoptive."
+        ],
         "examples": [
           "They'd never parented a toddler and a newborn at the same time before."
         ],
@@ -51548,7 +51994,9 @@
         "word": "kinetics"
       },
       {
-        "definition": [],
+        "definition": [
+          "A professional who designs, builds, or maintains engines, machines, or public works."
+        ],
         "examples": [
           "She engineered a further meeting with him."
         ],
@@ -51576,7 +52024,9 @@
         "word": "c"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word \"total\" can mean a few different things. It can be used as a noun meaning the sum of all parts, or it can be used as an adjective meaning complete or entire."
+        ],
         "examples": [
           "Imports totalled $1.5 billion last year."
         ],
@@ -51604,7 +52054,9 @@
         "word": "vacuum"
       },
       {
-        "definition": [],
+        "definition": [
+          "a way out of a place or situation; a means of escape"
+        ],
         "examples": [
           "(+ adv./prep.)"
         ],
@@ -51617,7 +52069,9 @@
         "word": "exit"
       },
       {
-        "definition": [],
+        "definition": [
+          "A bond is a debt security in which the issuer owes the holders a debt and is obliged to pay them interest or to repay the principal at a later date, termed the maturity date."
+        ],
         "examples": [
           "bond something"
         ],
@@ -51630,7 +52084,9 @@
         "word": "bond"
       },
       {
-        "definition": [],
+        "definition": [
+          "A substance that has a sour taste, turns blue litmus paper red, and reacts with bases and certain metals to form salts. Acids are classified as strong or weak, depending on how much they dissociate in water."
+        ],
         "examples": [
           "Rye is tolerant of poor, acid soils."
         ],
@@ -52113,7 +52569,9 @@
         "word": "kayaking"
       },
       {
-        "definition": [],
+        "definition": [
+          "to produce a picture, diagram, or representation by making lines and marks on a surface"
+        ],
         "examples": [
           "the draw for the second round of the Champions League"
         ],
@@ -52126,7 +52584,9 @@
         "word": "draw"
       },
       {
-        "definition": [],
+        "definition": [
+          "A group of people who are responsible for operating a vehicle or performing a task together."
+        ],
         "examples": [
           "crew (something)"
         ],
@@ -52154,7 +52614,9 @@
         "word": "whistle"
       },
       {
-        "definition": [],
+        "definition": [
+          "a person or thing that is light in weight"
+        ],
         "examples": [
           "a lightweight champion"
         ],
@@ -52287,7 +52749,9 @@
         "word": "challenger"
       },
       {
-        "definition": [],
+        "definition": [
+          "a short, fast run"
+        ],
         "examples": [
           "a 100-metre sprint"
         ],
@@ -52318,7 +52782,9 @@
         "definition": [
           "a person who does regular exercises in order to make their muscles bigger and stronger"
         ],
-        "examples": [],
+        "examples": [
+          "One example of the word \"bodybuilder\" would be someone who regularly attends the gym with the goal of increasing their muscle mass."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C1/Sport/bodybuilder.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -52376,7 +52842,9 @@
         "definition": [
           "a sport in which two people fight by holding each other and trying to throw or force their opponent to the ground"
         ],
-        "examples": [],
+        "examples": [
+          "The art of wrestling is an ancient form of combat that is often used in modern day mixed martial arts."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C1/Sport/wrestling.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -52983,10 +53451,10 @@
           "the exponential expansion of the universe in the first fraction of a second after the big bang."
         ],
         "examples": [
-          "null"
+          "cosmic inflation is a widely accepted theory that helps explain the large-scale structure of the universe and the even distribution of cosmic microwave background radiation."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C1/Time and space/Cosmic inflation.png",
-        "part_of_speech": "null",
+        "part_of_speech": "noun",
         "phonetics": {
           "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/phonetics/C1/Time and space/cosmic inflation.mp3",
           "transcription": "cosmic inflation"
@@ -53011,7 +53479,9 @@
         "word": "infinity"
       },
       {
-        "definition": [],
+        "definition": [
+          "spell refers to a sequence of words or letters that is believed to have magical or supernatural powers when spoken or written in a specific order."
+        ],
         "examples": [
           "We had a spell of warm weather in April."
         ],
@@ -53024,7 +53494,9 @@
         "word": "spell"
       },
       {
-        "definition": [],
+        "definition": [
+          "A foreign-born resident who has not been naturalized and who has not been granted citizenship."
+        ],
         "examples": [
           "an alien environment"
         ],
@@ -53037,7 +53509,9 @@
         "word": "alien"
       },
       {
-        "definition": [],
+        "definition": [
+          "(noun) a very short period of time; a moment;\n\n(adjective) happening or done immediately, without delay;\n\n(verb) to cause (something) to happen immediately"
+        ],
         "examples": [
           "in an instant"
         ],
@@ -53050,7 +53524,9 @@
         "word": "instant"
       },
       {
-        "definition": [],
+        "definition": [
+          "admirable in character or quality; having or showing high moral standards or admirable ideals, qualities, or intentions"
+        ],
         "examples": [
           "The cost of the arch was met by Milanese nobles."
         ],
@@ -53093,7 +53569,9 @@
         "word": "latter"
       },
       {
-        "definition": [],
+        "definition": [
+          "of or relating to or consisting of a year; \"a yearly visit\"; \"the yearly cost\""
+        ],
         "examples": [
           "Pay is reviewed on a yearly basis."
         ],
@@ -54561,7 +55039,6 @@
           "to move slowly over every part of somebody/something"
         ],
         "examples": [
-          "+ adv./prep.",
           "ramblers are calling for the right to roam (= the freedom to walk in open countryside) to be extended.",
           "roam something"
         ],
@@ -54672,7 +55149,7 @@
         ],
         "examples": [
           "alpine flora",
-          "rare species of flora and fauna (= plants and animals)"
+          "rare species of flora and fauna"
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/B2/Animals/Flora.png",
         "part_of_speech": "noun",
@@ -55115,7 +55592,9 @@
         "word": "allopatric speciation"
       },
       {
-        "definition": [],
+        "definition": [
+          "a support or resting place for a bird or other small animal"
+        ],
         "examples": [
           "He watched the game from his precarious perch on top of the wall."
         ],
@@ -55128,7 +55607,9 @@
         "word": "perch"
       },
       {
-        "definition": [],
+        "definition": [
+          "a gender that refers to things that are not alive"
+        ],
         "examples": [
           "Has your cat been neutered?"
         ],
@@ -55141,7 +55622,9 @@
         "word": "neuter"
       },
       {
-        "definition": [],
+        "definition": [
+          "A microchip is a small piece of silicon that contains a circuit. It is used in computers, cell phones, and other electronic devices."
+        ],
         "examples": [
           "Our dog has been microchipped and vaccinated against rabies."
         ],
@@ -55157,7 +55640,9 @@
         "definition": [
           "a fish that lives in warm seas and is used for food"
         ],
-        "examples": [],
+        "examples": [
+          "The word \"snapper\" can mean a type of fish, a type of crab, or a type of camera."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Animals/snapper.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -56923,7 +57408,9 @@
         "word": "pick"
       },
       {
-        "definition": [],
+        "definition": [
+          "A headline is a text above a newspaper article that summarizes the main points of the article."
+        ],
         "examples": [
           "be headlined…"
         ],
@@ -56954,7 +57441,9 @@
         "definition": [
           "the text of a popular song or musical-comedy number"
         ],
-        "examples": [],
+        "examples": [
+          "\"I can't get no satisfaction\" by The Rolling Stones"
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Culture/lyric.png",
         "part_of_speech": "adjective",
         "phonetics": {
@@ -56964,7 +57453,9 @@
         "word": "lyric"
       },
       {
-        "definition": [],
+        "definition": [
+          "A black or colored fluid or paste used for writing or printing."
+        ],
         "examples": [
           "The group has just inked a $10 million deal."
         ],
@@ -56992,7 +57483,9 @@
         "word": "gig"
       },
       {
-        "definition": [],
+        "definition": [
+          "A sample is a portion, piece, or section of something that is representative of the whole."
+        ],
         "examples": [
           "I sampled the delights of Greek cooking for the first time."
         ],
@@ -57005,8 +57498,12 @@
         "word": "sample"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "Having to do with the spirit or soul, as opposed to the body or material things."
+        ],
+        "examples": [
+          "The act of meditating is very spiritual."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Culture/spiritual.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -57046,8 +57543,12 @@
         "word": "box"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "(adjective) done by choice or without compulsion; not compulsory; (noun) a person who does something of their own free will"
+        ],
+        "examples": [
+          "I am willing to do this."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Culture/voluntary.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -57057,8 +57558,12 @@
         "word": "voluntary"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "serving as a means or aid"
+        ],
+        "examples": [
+          "The instrumental version of a song is the version without vocals."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Culture/instrumental.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -57068,8 +57573,12 @@
         "word": "instrumental"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "to give something a new name or title, especially one that is different from its original name"
+        ],
+        "examples": [
+          "to give something a different name or title"
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Culture/dub.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -57097,7 +57606,9 @@
         "definition": [
           "a cue given to a performer (usually the beginning of the next line to be spoken)"
         ],
-        "examples": [],
+        "examples": [
+          "What is your favorite color?\n\nMy favorite color is blue."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Culture/prompt.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -57122,7 +57633,9 @@
         "word": "vocal"
       },
       {
-        "definition": [],
+        "definition": [
+          "Exclusive is defined as something that is limited to only a few people or things, something that is not shared, or something that is available only to those who can afford it."
+        ],
         "examples": [
           "We feature an exclusive on the mothers whose babies were swapped at birth."
         ],
@@ -57150,7 +57663,9 @@
         "word": "plug"
       },
       {
-        "definition": [],
+        "definition": [
+          "A mural is a painting or other work of art that is displayed on a wall or other large surface, such as a ceiling."
+        ],
         "examples": [
           "mural paintings"
         ],
@@ -57178,7 +57693,9 @@
         "word": "buff"
       },
       {
-        "definition": [],
+        "definition": [
+          "a painting or drawing in one color or shades of one color"
+        ],
         "examples": [
           "monochrome illustrations/images"
         ],
@@ -57191,8 +57708,12 @@
         "word": "monochrome"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "A brown or yellowish-brown color, typically associated with old photographs."
+        ],
+        "examples": [
+          "The sky was a deep sepia color, as if the sun had been extinguished."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Culture/sepia.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -61339,7 +61860,9 @@
         "word": "tie"
       },
       {
-        "definition": [],
+        "definition": [
+          "to take something without permission"
+        ],
         "examples": [
           "The robbery from the Met was the greatest art steal in history."
         ],
@@ -61367,7 +61890,9 @@
         "word": "deal"
       },
       {
-        "definition": [],
+        "definition": [
+          "(adjective) (of speech or writing) digressing aimlessly; (of a person) speaking or writing in this way; (of a building) spread out in an irregular and often haphazard way"
+        ],
         "examples": [
           "She’s a member of a rambling club."
         ],
@@ -61410,8 +61935,12 @@
         "word": "billing"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "a type of soil that is soft, wet, and sticky"
+        ],
+        "examples": [
+          "The ground was covered in mud after the storm."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Leisure/mud.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -61419,21 +61948,6 @@
           "transcription": "/mʌd/"
         },
         "word": "mud"
-      },
-      {
-        "definition": [
-          "to walk or travel around an area without any definite aim or direction"
-        ],
-        "examples": [
-          "+ adv./prep."
-        ],
-        "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Leisure/roam.png",
-        "part_of_speech": "verb",
-        "phonetics": {
-          "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/phonetics/C2/Leisure/roam.mp3",
-          "transcription": "/ˈrəʊmɪŋ/"
-        },
-        "word": "roam"
       },
       {
         "definition": [
@@ -61451,7 +61965,9 @@
         "word": "birding"
       },
       {
-        "definition": [],
+        "definition": [
+          "to put or keep out of sight; to conceal; to prevent from being seen or discovered"
+        ],
         "examples": [
           "boots made from buffalo hide"
         ],
@@ -61497,7 +62013,9 @@
         "definition": [
           "the art of making portraits; the portraits that are made"
         ],
-        "examples": [],
+        "examples": [
+          "A portrait is a painting, photograph, sculpture, or other artistic representation of a person, in which the face and its expression is predominant. The intent is to display the likeness, personality, and even the mood of the person."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Leisure/portraiture.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -61540,7 +62058,9 @@
         "definition": [
           "a card game for two or more people, in which the players bet on the values of the cards they hold"
         ],
-        "examples": [],
+        "examples": [
+          "A poker is a card game in which players bet on the value of their hand."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Leisure/poker.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -62334,7 +62854,9 @@
         "word": "hydrothermal"
       },
       {
-        "definition": [],
+        "definition": [
+          "Green is the color of grass, trees, and other plants. It is also the color of money."
+        ],
         "examples": [
           "projects for greening the cities"
         ],
@@ -62347,7 +62869,9 @@
         "word": "green"
       },
       {
-        "definition": [],
+        "definition": [
+          "a young sheep"
+        ],
         "examples": [
           "She’s due to lamb in two weeks’ time."
         ],
@@ -62375,7 +62899,9 @@
         "word": "cross"
       },
       {
-        "definition": [],
+        "definition": [
+          "a person who kills animals and cuts up their meat for sale in a shop"
+        ],
         "examples": [
           "The script was good, but those guys butchered it."
         ],
@@ -64176,9 +64702,11 @@
         "word": "lift"
       },
       {
-        "definition": [],
+        "definition": [
+          "to tell the police about somebody’s criminal activities"
+        ],
         "examples": [
-          "Who grassed on us?"
+          "who grassed on us?"
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Politics and society/grass.png",
         "part_of_speech": "verb",
@@ -64189,7 +64717,9 @@
         "word": "grass"
       },
       {
-        "definition": [],
+        "definition": [
+          "to suddenly attack a place"
+        ],
         "examples": [
           "storm something"
         ],
@@ -64202,9 +64732,11 @@
         "word": "storm"
       },
       {
-        "definition": [],
+        "definition": [
+          "on or to the inner part of something/somebody; within something/somebody"
+        ],
         "examples": [
-          "She shook it to make sure there was nothing inside."
+          "she shook it to make sure there was nothing inside."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Politics and society/inside.png",
         "part_of_speech": "adverb",
@@ -64230,7 +64762,9 @@
         "word": "underground"
       },
       {
-        "definition": [],
+        "definition": [
+          "to remove the outer covering or shell of something, typically to access or consume the contents."
+        ],
         "examples": [
           "They shelled the city all night."
         ],
@@ -64243,9 +64777,11 @@
         "word": "shell"
       },
       {
-        "definition": [],
+        "definition": [
+          "an initial election in which members of a political party or voters choose their party's candidate for a public office."
+        ],
         "examples": [
-          "the Illinois primary"
+          "the illinois primary"
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Politics and society/primary.png",
         "part_of_speech": "noun",
@@ -64256,8 +64792,12 @@
         "word": "primary"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "to investigate or examine a situation, place, or person in a thorough and systematic manner, often with the intent to gather information or evidence."
+        ],
+        "examples": [
+          "the detective was assigned to case the area around the crime scene in search of potential witnesses or clues."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Politics and society/case.png",
         "part_of_speech": "verb",
         "phonetics": {
@@ -64267,8 +64807,12 @@
         "word": "case"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "contrary to or in violation of the law; not allowed or prohibited by law."
+        ],
+        "examples": [
+          "driving without a valid license is illegal in most countries and can result in fines or even imprisonment."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Politics and society/illegal.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -64278,9 +64822,11 @@
         "word": "illegal"
       },
       {
-        "definition": [],
+        "definition": [
+          "other somebody to view or treat a person or group of people as different from yourself and from most people"
+        ],
         "examples": [
-          "Racism can take the form of othering people we perceive as different and dismissing their concerns."
+          "racism can take the form of othering people we perceive as different and dismissing their concerns."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Politics and society/other.png",
         "part_of_speech": "verb",
@@ -64968,7 +65514,9 @@
         "word": "geoengineering"
       },
       {
-        "definition": [],
+        "definition": [
+          "to start or restart a computer or electronic device by loading its operating system or software."
+        ],
         "examples": [
           "He booted the ball clear of the goal."
         ],
@@ -64981,7 +65529,9 @@
         "word": "boot"
       },
       {
-        "definition": [],
+        "definition": [
+          "to make something even or level by adjusting or aligning its sides to form right angles."
+        ],
         "examples": [
           "The boat is rounded at the front but squared off at the back."
         ],
@@ -64994,7 +65544,9 @@
         "word": "square"
       },
       {
-        "definition": [],
+        "definition": [
+          "to block or obstruct something, often unintentionally, by wedging or causing an impediment."
+        ],
         "examples": [
           "He jammed his fingers in his ears."
         ],
@@ -65007,8 +65559,12 @@
         "word": "jam"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "it means to bury or embed something in the ground or soil, typically for the purpose of grounding or concealing it"
+        ],
+        "examples": [
+          "the electrician had to earth the copper wire to prevent electrical shocks by burying it securely in the garden."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Science and technology/earth.png",
         "part_of_speech": "verb",
         "phonetics": {
@@ -65018,7 +65574,9 @@
         "word": "earth"
       },
       {
-        "definition": [],
+        "definition": [
+          "A track is a path or route that is marked out for someone to follow."
+        ],
         "examples": [
           "track somebody/something"
         ],
@@ -65031,7 +65589,9 @@
         "word": "track"
       },
       {
-        "definition": [],
+        "definition": [
+          "a person who designs buildings and in many cases also supervises their construction"
+        ],
         "examples": [
           "We are looking for someone with experience of architecting data and designing databases."
         ],
@@ -65044,7 +65604,9 @@
         "word": "architect"
       },
       {
-        "definition": [],
+        "definition": [
+          "an event or occurrence that happens, especially one that is unusual or bad"
+        ],
         "examples": [
           "The technology relies on a beam of incident light passing through a prism."
         ],
@@ -65757,7 +66319,9 @@
         "word": "bmx racing"
       },
       {
-        "definition": [],
+        "definition": [
+          "kind and pleasant; likable"
+        ],
         "examples": [
           "He played for England in a friendly against Spain."
         ],
@@ -65770,7 +66334,9 @@
         "word": "friendly"
       },
       {
-        "definition": [],
+        "definition": [
+          "The word in is a preposition that typically indicates location, direction, or time."
+        ],
         "examples": [
           "She opened the door and went in."
         ],
@@ -65783,7 +66349,9 @@
         "word": "in"
       },
       {
-        "definition": [],
+        "definition": [
+          "(verb) to come together with someone or something; to encounter someone or something"
+        ],
         "examples": [
           "a track meet"
         ],
@@ -65796,7 +66364,9 @@
         "word": "meet"
       },
       {
-        "definition": [],
+        "definition": [
+          "to perform a service or duty for someone or something"
+        ],
         "examples": [
           "He has not lost his serve (= lost a game in which it was his turn to serve) in three matches."
         ],
@@ -65809,7 +66379,9 @@
         "word": "serve"
       },
       {
-        "definition": [],
+        "definition": [
+          "a small, thin, flat piece of material, typically of wood, stone, or ceramic, used for building or paving"
+        ],
         "examples": [
           "a badly chipped saucer"
         ],
@@ -65837,7 +66409,9 @@
         "word": "slice"
       },
       {
-        "definition": [],
+        "definition": [
+          "A fence is a structure that encloses an area, typically outdoors, and is usually constructed from posts that are connected by boards, wire, rails or netting."
+        ],
         "examples": [
           "His property is fenced with barbed wire."
         ],
@@ -66501,7 +67075,9 @@
         "word": "chronostratigraphy"
       },
       {
-        "definition": [],
+        "definition": [
+          "an archaeological excavation or site where historical artifacts and remains are discovered and studied."
+        ],
         "examples": [
           "She gave him a dig in the ribs."
         ],
@@ -66514,7 +67090,9 @@
         "word": "dig"
       },
       {
-        "definition": [],
+        "definition": [
+          "a continuous area or expanse of land or water."
+        ],
         "examples": [
           "a particularly dangerous stretch of road"
         ],
@@ -66527,8 +67105,12 @@
         "word": "stretch"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "a place or collection containing historical records, documents, or materials of enduring value."
+        ],
+        "examples": [
+          "the historian spent hours in the archive, sifting through old manuscripts and letters to uncover the secrets of the past."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Time and space/archive.png",
         "part_of_speech": "verb",
         "phonetics": {
@@ -66568,7 +67150,9 @@
         "word": "probe"
       },
       {
-        "definition": [],
+        "definition": [
+          "Baroque is an ornate and often extravagant style of architecture, music, dance, painting, sculpture and other arts that flourished in Europe from the early 17th century until the mid-18th century."
+        ],
         "examples": [
           "baroque churches/music"
         ],
@@ -66614,7 +67198,9 @@
         "definition": [
           "a year"
         ],
-        "examples": [],
+        "examples": [
+          "he completed his twelvemonth internship at the hospital, gaining valuable experience in the medical field."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Time and space/twelvemonth.png",
         "part_of_speech": "noun",
         "phonetics": {
@@ -67566,7 +68152,9 @@
         "word": "core competencies"
       },
       {
-        "definition": [],
+        "definition": [
+          "table something to present something formally for discussion"
+        ],
         "examples": [
           "to table a question in Parliament"
         ],
@@ -67579,7 +68167,9 @@
         "word": "table"
       },
       {
-        "definition": [],
+        "definition": [
+          "A list is a set of items in a particular order."
+        ],
         "examples": [
           "We were asked to list our ten favourite songs."
         ],
@@ -67592,7 +68182,9 @@
         "word": "list"
       },
       {
-        "definition": [],
+        "definition": [
+          "a liquid is a state of matter in which the molecules are free to move around, but are close enough together that they cannot escape from the liquid."
+        ],
         "examples": [
           "liquid nitrogen"
         ],
@@ -67605,9 +68197,11 @@
         "word": "liquid"
       },
       {
-        "definition": [],
+        "definition": [
+          "to convey or signify a particular idea, message, or intention through words, actions, or behavior."
+        ],
         "examples": [
-          "She's always been mean with money."
+          "she's always been mean with money."
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Work and business/mean.png",
         "part_of_speech": "adjective",
@@ -67618,7 +68212,9 @@
         "word": "mean"
       },
       {
-        "definition": [],
+        "definition": [
+          "to clean or clear an area by brushing or moving a broom or similar tool across it, typically to remove dust, dirt, or debris."
+        ],
         "examples": [
           "Give the room a good sweep."
         ],
@@ -67631,7 +68227,9 @@
         "word": "sweep"
       },
       {
-        "definition": [],
+        "definition": [
+          "A collective is a group of people who share a common purpose or goal."
+        ],
         "examples": [
           "an independent collective making films for television"
         ],
@@ -67648,7 +68246,7 @@
           "used at the beginning of a letter before the name or title of the person that you are writing to"
         ],
         "examples": [
-          "Dear Sir or Madam"
+          "dear sir or madam"
         ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Work and business/dear.png",
         "part_of_speech": "adjective",
@@ -67659,8 +68257,12 @@
         "word": "dear"
       },
       {
-        "definition": [],
-        "examples": [],
+        "definition": [
+          "an abbreviation for 'personal computer,' which refers to a type of computer designed for individual use, typically running an operating system like windows, macos, or linux."
+        ],
+        "examples": [
+          "she uses her pc for work tasks, browsing the internet, and playing video games in her free time."
+        ],
         "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image/C2/Work and business/pc.png",
         "part_of_speech": "abbreviation",
         "phonetics": {
