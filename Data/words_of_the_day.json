@@ -379,7 +379,7 @@
     "word": "ladybug",
     "part_of_speech": "noun",
     "phonetics": {
-      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/phonetics/ladybug.mp3",
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/ladybug.png",
       "transcription": "/ˈleɪdibɜːrd/"
     },
     "examples": [
@@ -705,7 +705,7 @@
       "the dragon flew gracefully through the sky, its scales shimmering in the sunlight."
     ],
     "definition": "a large, aggressive animal, with wings and a long tail, that can breathe out fire",
-    "image": null
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/dragon.png"
   },
   "2023-10-22": {
     "word": "energy",
