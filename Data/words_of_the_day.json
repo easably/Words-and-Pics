@@ -704,7 +704,7 @@
     "examples": [
       "the dragon flew gracefully through the sky, its scales shimmering in the sunlight."
     ],
-    "definition": "a large, aggressive animal, with wings and a long tail, that can breathe out fire",
+    "definition": ["a large, aggressive animal, with wings and a long tail, that can breathe out fire"],
     "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/dragon.png"
   },
   "2023-10-22": {
@@ -758,7 +758,7 @@
       "transcription": "/ˈpəʊʃn/"
     },
     "examples": ["i've tried all sorts of drugs, creams, pills and potions."],
-    "definition": "a drink of medicine or poison; a liquid with magic powers",
+    "definition": ["a drink of medicine or poison; a liquid with magic powers"],
     "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/potion.png"
   },
   "2023-10-26": {
@@ -975,7 +975,9 @@
       "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardMp3/entropy.mp3",
       "transcription": "/ˈentrəpi/"
     },
-    "examples": ["the entropy of a closed system always tends to increase over time, indicating a tendency towards disorder."],
+    "examples": [
+      "the entropy of a closed system always tends to increase over time, indicating a tendency towards disorder."
+    ],
     "definition": [
       "a measure of the amount of thermal energy not available for doing work"
     ],
@@ -1006,7 +1008,9 @@
       "transcription": "/ˈbiːkə(r)/"
     },
     "examples": ["a glass beaker containing copper sulphate solution"],
-    "definition": ["a glass cup with straight sides and a lip, used in chemistry, for example for measuring liquids"],
+    "definition": [
+      "a glass cup with straight sides and a lip, used in chemistry, for example for measuring liquids"
+    ],
     "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/beaker.png",
     "holiday": "World Science Day for Peace and Development",
     "holiday_desc": "This day was established by the United Nations Educational, Scientific, and Cultural Organization (UNESCO) to highlight the importance of science in promoting global peace and sustainable development. The primary goal of this observance is to underscore the significance of science, technology, and innovation in addressing global challenges and advancing human development."
@@ -1059,7 +1063,9 @@
       "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardMp3/birthday.mp3",
       "transcription": "/ˈbɜːrθdeɪ/"
     },
-    "examples": ["she celebrated her 21st birthday with a party for family and friend."],
+    "examples": [
+      "she celebrated her 21st birthday with a party for family and friend."
+    ],
     "definition": [
       "day of the year on which a person celebrates the anniversary of their birth."
     ],
