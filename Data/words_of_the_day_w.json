@@ -199,7 +199,10 @@
     "word": "Amulet",
     "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/amulet.png"
   },
-  "2023-10-21": { "word": "Dragon", "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/dragon.png" },
+  "2023-10-21": {
+    "word": "Dragon",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/dragon.png"
+  },
   "2023-10-22": {
     "word": "Energy",
     "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/energy.png"
@@ -239,5 +242,155 @@
   "2023-10-31": {
     "word": "Pumpkin",
     "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/pumpkin.png"
+  },
+  "2023-11-01": {
+    "word": "Requiem",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/requiem.png",
+    "holiday": "All Saints' Day"
+  },
+  "2023-11-02": {
+    "word": "Tutu",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/tutu.png",
+    "holiday": "World Ballet Day"
+  },
+  "2023-11-03": {
+    "word": "Condiment",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/condiment.png",
+    "holiday": "Sandwich Day"
+  },
+  "2023-11-04": {
+    "word": "Confection",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/confection.png",
+    "holiday": "Candy Day"
+  },
+  "2023-11-05": {
+    "word": "Bonfire",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/bonfire.png",
+    "holiday": "Guy Fawkes Day"
+  },
+  "2023-11-06": {
+    "word": "Pulp",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/pulp.png",
+    "holiday": "World Paper Free Day"
+  },
+  "2023-11-07": {
+    "word": "Almondine",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/almondine.png",
+    "holiday": "Bittersweet Chocolate with Almonds Day"
+  },
+  "2023-11-08": {
+    "word": "Manger",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/manger.png",
+    "holiday": "Cook for Your Pets Day"
+  },
+  "2023-11-09": {
+    "word": "Entropy",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/entropy.png",
+    "holiday": "Chaos Never Dies Day"
+  },
+  "2023-11-10": {
+    "word": "Revenue",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/revenue.png",
+    "holiday": "International Accounting Day"
+  },
+  "2023-11-11": {
+    "word": "Beaker",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/beaker.png",
+    "holiday": "World Science Day for Peace and Development"
+  },
+  "2023-11-12": {
+    "word": "Tongue twister",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/tongue_twister.png",
+    "holiday": "International Tongue Twister Day"
+  },
+  "2023-11-13": {
+    "word": "Benevolent",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/benevolent.png",
+    "holiday": "World Kindness Day"
+  },
+  "2023-11-14": {
+    "word": "Brine",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/brine.png",
+    "holiday": "Pickle Day"
+  },
+  "2023-11-15": {
+    "word": "Birthday",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/birthday.png",
+    "holiday": "Birthday"
+  },
+  "2023-11-16": {
+    "word": "Greasy",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/greasy.png",
+    "holiday": "Fast Food Day"
+  },
+  "2023-11-17": {
+    "word": "Matriculate",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/matriculate.png",
+    "holiday": "International Students' Day"
+  },
+  "2023-11-18": {
+    "word": "Interface",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/interface.png",
+    "holiday": "Push Button Phone Day"
+  },
+  "2023-11-19": {
+    "word": "Debacle",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/debacle.png",
+    "holiday": "Have A Bad Day Day"
+  },
+  "2023-11-20": {
+    "word": "Fudge",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/fudge.png",
+    "holiday": "Peanut Butter Fudge Day"
+  },
+  "2023-11-21": {
+    "word": "Spice",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/spice.png",
+    "holiday": "Gingerbread Cookie Day"
+  },
+  "2023-11-22": {
+    "word": "Tart",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/tart.png",
+    "holiday": "Cranberry Relish Day"
+  },
+  "2023-11-23": {
+    "word": "Sequence",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/sequence.png",
+    "holiday": "Fibonacci Day"
+  },
+  "2023-11-24": {
+    "word": "Tin",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/tin.png",
+    "holiday": "Sardines Day"
+  },
+  "2023-11-25": {
+    "word": "Parfait",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/parfait.png",
+    "holiday": "Parfait Day"
+  },
+  "2023-11-26": {
+    "word": "Pastry",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/pastry.png",
+    "holiday": "Cake Day"
+  },
+  "2023-11-27": {
+    "word": "Embroidery",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/embroidery.png",
+    "holiday": "Pins and Needles Day"
+  },
+  "2023-11-28": {
+    "word": "Rover",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/rover.png",
+    "holiday": "Red Planet Day"
+  },
+  "2023-11-29": {
+    "word": "Sentiment",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/sentiment.png",
+    "holiday": "Electronic Greeting Card Day"
+  },
+  "2023-11-30": {
+    "word": "Authentication",
+    "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/authentication.png",
+    "holiday": "Computer Security Day"
   }
 }

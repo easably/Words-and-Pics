@@ -704,7 +704,9 @@
     "examples": [
       "the dragon flew gracefully through the sky, its scales shimmering in the sunlight."
     ],
-    "definition": ["a large, aggressive animal, with wings and a long tail, that can breathe out fire"],
+    "definition": [
+      "a large, aggressive animal, with wings and a long tail, that can breathe out fire"
+    ],
     "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/word-of-the-day/image/dragon.png"
   },
   "2023-10-22": {
@@ -1098,5 +1100,188 @@
     "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/cardImages/matriculate.png",
     "holiday": "International Students' Day",
     "holiday_desc": "It is a day to celebrate and honor the role of students in society, as well as to highlight the importance of education and student rights. This day has historical significance dating back to the early 20th century. The day is observed on November 17th in remembrance of the Czech students who were brutally suppressed in 1939 by the Nazis during a peaceful protest on that date. The day serves as a reminder of the importance of student rights, including the right to education, freedom of expression, and the opportunity to engage in peaceful activism."
+  },
+  "2023-11-18": {
+    "word": "interface",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/audio_collection/v0/en/us/interface.mp3",
+      "transcription": "/ˈɪntərfeɪs/"
+    },
+    "examples": ["the user interface"],
+    "definition": ["the way in which two systems interact with each other"],
+  "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/interface.png",
+    "holiday": "Push Button Phone Day",
+    "holiday_desc": "This day recognizes the significant technological advancement in telecommunications and the transition from rotary dial phones to push button phones."
+  },
+  "2023-11-19": {
+    "word": "debacle",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/audio_collection/v0/en/us/debacle.mp3",
+      "transcription": "/deɪˈbɑːkl/"
+    },
+    "examples": ["Let’s hope this is the end of the debacle over player transfer fees."],
+    "definition": ["a complete failure"],
+  "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/debacle.png",
+    "holiday": "Have A Bad Day Day",
+    "holiday_desc": "This holiday was created in 1998 by Thomas and Ruth Roy of Wellcat Holidays as a way for people to come together and recognize that everyone has bad days, but it's important to remember that there is always something good to be found in even the worst of circumstances."
+  },
+  "2023-11-20": {
+    "word": "fudge",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/audio_collection/v0/en/us/fudge.mp3",
+      "transcription": "/fʌdʒ/"
+    },
+    "examples": ["This solution is a fudge rushed in to win cheers at the party conference."],
+    "definition": ["a soft candy made from sugar, butter, and milk or cream"],
+  "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/fudge.png",
+    "holiday": "Peanut Butter Fudge Day",
+    "holiday_desc": "The day aims to raise awareness for the delicious combination of peanut butter and fudge. It gives those with a sweet tooth an excuse to indulge in the tasty treat."
+  },
+  "2023-11-21": {
+    "word": "spice",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/audio_collection/v0/en/us/spice.mp3",
+      "transcription": "/spaɪs/"
+    },
+    "examples": ["common spices such as ginger and cinnamon"],
+    "definition": [
+      "an aromatic seed, root, bark, or other vegetable substance used for food flavoring"
+    ],
+  "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/spice.png",
+    "holiday": "Gingerbread Cookie Day",
+    "holiday_desc": "November 21st was selected as it falls within the traditional baking season leading up to Christmas."
+  },
+  "2023-11-22": {
+    "word": "tart",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/audio_collection/v0/en/us/tart.mp3",
+      "transcription": "/tɑːrt/"
+    },
+    "examples": ["a strawberry tart"],
+    "definition": ["an open pastry case with a filling"],
+  "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/tart.png",
+    "holiday": "Cranberry Relish Day",
+    "holiday_desc": "Believed to have originated in the New England States during the early 1900s, cranberry relish is a traditional part of many families' Thanksgiving dinner."
+  },
+  "2023-11-23": {
+    "word": "sequence",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/audio_collection/v0/en/us/sequence.mp3",
+      "transcription": "/ˈsiːkwəns/"
+    },
+    "examples": ["The computer generates a random sequence of numbers."],
+    "definition": [
+      "a specific order in which numbers or objects follow one another, such as the Fibonacci sequence"
+    ],
+  "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/sequence.png",
+    "holiday": "Fibonacci Day",
+    "holiday_desc": "November 23rd (11/23) celebrates a Fibonacci sequence in the date and sums of preceding numbers."
+  },
+  "2023-11-24": {
+    "word": "tin",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/audio_collection/v0/en/us/tin.mp3",
+      "transcription": "/tɪn/"
+    },
+    "examples": ["Open the tin and drain the tuna."],
+    "definition": ["a closed metal container in which food is sold"],
+  "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/tin.png",
+    "holiday": "Sardines Day",
+    "holiday_desc": "The day celebrates the fish that provide us with an affordable, delicious, highly nutritious food."
+  },
+  "2023-11-25": {
+    "word": "parfait",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/audio_collection/v0/en/us/parfait.mp3",
+      "transcription": "/pɑːrˈfeɪ/"
+    },
+    "examples": ["chicken liver parfait"],
+    "definition": [
+      "a cold dessert made of layers of fruit, syrup, ice cream, and whipped cream"
+    ],
+  "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/parfait.png",
+    "holiday": "Parfait Day",
+    "holiday_desc": "This day has been around since the early 2000s and is meant to celebrate this yummy treat. Get creative and have some fun making your own parfait!"
+  },
+  "2023-11-26": {
+    "word": "pastry",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/audio_collection/v0/en/us/pastry.mp3",
+      "transcription": "/ˈpeɪstri/"
+    },
+    "examples": ["Bake until the pastry is crisp and golden."],
+    "definition": ["a baked food made from flour, fat, and liquid"],
+  "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/pastry.png",
+    "holiday": "Cake Day",
+    "holiday_desc": "This unofficial holiday whose origins are unknown delivers a scrumptious treat for everyone to enjoy!"
+  },
+  "2023-11-27": {
+    "word": "embroidery",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/audio_collection/v0/en/us/embroidery.mp3",
+      "transcription": "/ɪmˈbrɔɪdəri/"
+    },
+    "examples": ["a beautiful piece of embroidery"],
+    "definition": [
+      "the art of decorating fabric with needle and thread, creating intricate designs"
+    ],
+  "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/embroidery.png",
+    "holiday": "Pins and Needles Day",
+    "holiday_desc": "The day celebrates a popular musical performed on Broadway between 1937 and 1940."
+  },
+  "2023-11-28": {
+    "word": "rover",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/audio_collection/v0/en/us/rover.mp3",
+      "transcription": "/ˈrəʊvər/"
+    },
+    "examples": ["He was a rover and an adventurer who finally settled down and married in old age."],
+    "definition": [
+      "a robotic vehicle designed to explore the surface of Mars, collecting data and conducting experiments"
+    ],
+  "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/rover.png",
+    "holiday": "Red Planet Day",
+    "holiday_desc": "It commemorates the launch of the Spacecraft Mariner 4 by NASA in 1964, which was the first craft to ever reach Mars."
+  },
+  "2023-11-29": {
+    "word": "sentiment",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/audio_collection/v0/en/us/sentiment.mp3",
+      "transcription": "/ˈsentɪmənt/"
+    },
+    "examples": ["This is a sentiment I wholeheartedly agree with."],
+    "definition": [
+      "the emotion or feeling expressed in a message or a card, often used to convey well wishes, love, appreciation"
+    ],
+  "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/sentiment.png",
+    "holiday": "Electronic Greeting Card Day",
+    "holiday_desc": "While the origins of this unofficial holiday are unknown, it is clear that the holiday aims to encourage people to start a conversation with family and friends you haven't seen or spoken to for a while over the Internet."
+  },
+  "2023-11-30": {
+    "word": "authentication",
+    "part_of_speech": "noun",
+    "phonetics": {
+      "mp3": "https://elang-space.fra1.cdn.digitaloceanspaces.com/audio_collection/v0/en/us/authentication.mp3",
+      "transcription": "/ɔːˌθentɪˈkeɪʃn/"
+    },
+    "examples": ["When buying jewellery, make sure you get a certificate of authentication."],
+    "definition": [
+      "the process of verifying the identity of a user or device to ensure that only authorized individuals can access a system or data"
+    ],
+  "image": "https://elang-space.fra1.cdn.digitaloceanspaces.com/image_collection/v0/authentication.png",
+    "holiday": "Computer Security Day",
+    "holiday_desc": "It is designed to raise awareness about cyber security issues. It also helps people maintain online security."
   }
 }
